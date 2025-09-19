@@ -1,6 +1,7 @@
 [
   {
     "id": "6749348031",
+    "is_active": false,
     "title": "GLP-1 Shot Tracker - DoseAI",
     "sub_title": "Log doses, injections & weight",
     "link": "https://apps.apple.com/us/app/glp-1-shot-tracker-doseai/id6749348031",
@@ -8,6 +9,7 @@
   },
   {
     "id": "6746893455",
+    "is_active": true,
     "title": "YT Video Summarizer",
     "sub_title": "AI YouTube Transcripts/Summary",
     "link": "https://apps.apple.com/us/app/yt-video-summarizer/id6746893455",
@@ -15,6 +17,7 @@
   },
   {
     "id": "6747472011",
+    "is_active": true,
     "title": "Food Scanner - Calorie Counter",
     "sub_title": "AI Food Chat & Calorie Track",
     "link": "https://apps.apple.com/us/app/food-scanner-calorie-counter/id6747472011",
@@ -22,6 +25,7 @@
   },
   {
     "id": "6743380771",
+    "is_active": true,
     "title": "EraAI - Enhance Photos AI",
     "sub_title": "Remove objects AI",
     "link": "https://apps.apple.com/us/app/eraai-enhance-photos-ai/id6743380771",
