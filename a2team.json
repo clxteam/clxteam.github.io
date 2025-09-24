@@ -1,5 +1,13 @@
 [
     {
+    "id": "6752804594",
+    "is_active": true,
+    "title": "SeniorCare – AI Voice Reminder",
+    "sub_title": "Wellness, Notes & Memory Aid",
+    "link": "https://apps.apple.com/us/app/seniorcare-ai-voice-reminder/id6752804594",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/fa/fa/01fafacf-df40-4a2b-77c2-34cb42fc1736/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/246x0w.webp"
+  },
+    {
     "id": "6751217849",
     "is_active": true,
     "title": "Blood Sugar Monitor - GlucoAI",
