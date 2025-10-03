@@ -1,0 +1,770 @@
+{
+  "version": "1.0.1-en",
+  "generated_at": "2025-10-02T10:57:04.762407Z",
+  "disclaimer": "Educational information only; not medical advice. Always read product labels and consult a qualified healthcare professional. Some supplements may interact with medications or be contraindicated for certain conditions.",
+  "routines": [
+    {
+      "id": "18a855f6-4f2a-47e4-8e88-d50abcf33a5d",
+      "title": "Daily Essentials",
+      "title_key": "routine_title_daily_essentials",
+      "goal": "Foundational vitamins & minerals for general wellness",
+      "goal_key": "routine_goal_daily_essentials",
+      "items": [
+        {
+          "name": "B-Complex",
+          "amount": 1,
+          "unit": "tablets",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Vitamin D3",
+          "amount": 2000,
+          "unit": "IU",
+          "when": "with lunch"
+        },
+        {
+          "name": "Vitamin C",
+          "amount": 500,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 300,
+          "unit": "mg",
+          "when": "before bed"
+        },
+        {
+          "name": "Omega-3 Fish Oil (EPA & DHA)",
+          "amount": 1000,
+          "unit": "mg",
+          "when": "with lunch"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "47066fc9-67ac-4dc3-95fe-461e754be42a",
+      "title": "Focus & Stress",
+      "title_key": "routine_title_focus_stress",
+      "goal": "Calm focus and work performance",
+      "goal_key": "routine_goal_focus_stress",
+      "items": [
+        {
+          "name": "L-Theanine",
+          "amount": 200,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Ashwagandha",
+          "amount": 300,
+          "unit": "mg",
+          "when": "afternoon"
+        },
+        {
+          "name": "Rhodiola Rosea",
+          "amount": 200,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Ginkgo Biloba",
+          "amount": 120,
+          "unit": "mg",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Coenzyme Q10",
+          "amount": 150,
+          "unit": "mg",
+          "when": "with breakfast"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "c276278a-3c6e-479a-b801-0070647c2c90",
+      "title": "Sleep Support",
+      "title_key": "routine_title_sleep_support",
+      "goal": "Ease sleep onset and improve sleep quality",
+      "goal_key": "routine_goal_sleep_support",
+      "items": [
+        {
+          "name": "Magnesium",
+          "amount": 300,
+          "unit": "mg",
+          "when": "30–60 min before bed"
+        },
+        {
+          "name": "Melatonin",
+          "amount": 2,
+          "unit": "mg",
+          "when": "30 min before bed"
+        },
+        {
+          "name": "L-Theanine",
+          "amount": 200,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "Glycine",
+          "amount": 3000,
+          "unit": "mg",
+          "when": "before bed",
+          "notes": "If available in catalog"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "8aaee462-456e-4043-a228-db9d12c1d9bd",
+      "title": "Gut & Digestion",
+      "title_key": "routine_title_gut_digestion",
+      "goal": "Microbiome balance and comfortable digestion",
+      "goal_key": "routine_goal_gut_digestion",
+      "items": [
+        {
+          "name": "Probiotic (Lactobacillus Acidophilus)",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        },
+        {
+          "name": "Bifidobacterium",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        },
+        {
+          "name": "Inulin",
+          "amount": 5,
+          "unit": "g",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Psyllium Husk",
+          "amount": 5,
+          "unit": "g",
+          "when": "with water, morning"
+        },
+        {
+          "name": "Digestive Enzymes",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "with main meal"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "96c0f105-e2db-49a0-a174-b196a9393e27",
+      "title": "Heart & Metabolic Health",
+      "title_key": "routine_title_heart_metabolic_health",
+      "goal": "Cardiovascular support, lipids and cellular energy",
+      "goal_key": "routine_goal_heart_metabolic_health",
+      "items": [
+        {
+          "name": "Omega-3 Fish Oil (EPA & DHA)",
+          "amount": 1000,
+          "unit": "mg",
+          "when": "with lunch"
+        },
+        {
+          "name": "Coenzyme Q10",
+          "amount": 150,
+          "unit": "mg",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 300,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "Berberine",
+          "amount": 500,
+          "unit": "mg",
+          "when": "with dinner"
+        },
+        {
+          "name": "Vitamin D3",
+          "amount": 2000,
+          "unit": "IU",
+          "when": "with meal"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "5e6ad77c-4960-41e3-a7f8-aea89f18deb1",
+      "title": "Joint & Mobility",
+      "title_key": "routine_title_joint_mobility",
+      "goal": "Joint comfort, cartilage & connective tissue",
+      "goal_key": "routine_goal_joint_mobility",
+      "items": [
+        {
+          "name": "Glucosamine",
+          "amount": 1500,
+          "unit": "mg",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Chondroitin",
+          "amount": 1200,
+          "unit": "mg",
+          "when": "with lunch"
+        },
+        {
+          "name": "MSM",
+          "amount": 1000,
+          "unit": "mg",
+          "when": "with dinner"
+        },
+        {
+          "name": "Collagen Peptides",
+          "amount": 1,
+          "unit": "scoops",
+          "when": "morning shake"
+        },
+        {
+          "name": "Turmeric (Curcumin)",
+          "amount": 500,
+          "unit": "mg",
+          "when": "with meal"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "d6d954d7-4263-4fec-a5c4-fd4329e15301",
+      "title": "Muscle & Performance",
+      "title_key": "routine_title_muscle_performance",
+      "goal": "Strength, recovery and muscle gain",
+      "goal_key": "routine_goal_muscle_performance",
+      "items": [
+        {
+          "name": "Creatine Monohydrate",
+          "amount": 5,
+          "unit": "g",
+          "when": "post-workout"
+        },
+        {
+          "name": "Whey Protein",
+          "amount": 1,
+          "unit": "scoops",
+          "when": "post-workout"
+        },
+        {
+          "name": "BCAA",
+          "amount": 1,
+          "unit": "scoops",
+          "when": "intra-workout"
+        },
+        {
+          "name": "Beta-Alanine",
+          "amount": 3.2,
+          "unit": "g",
+          "when": "pre-workout"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 300,
+          "unit": "mg",
+          "when": "before bed"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "ee48ffb6-ff8f-4e04-8080-1aac0b3e0e3f",
+      "title": "Skin, Hair & Nails",
+      "title_key": "routine_title_skin_hair_nails",
+      "goal": "Healthy skin, resilient hair & nails",
+      "goal_key": "routine_goal_skin_hair_nails",
+      "items": [
+        {
+          "name": "Collagen Peptides",
+          "amount": 1,
+          "unit": "scoops",
+          "when": "morning"
+        },
+        {
+          "name": "Vitamin C",
+          "amount": 500,
+          "unit": "mg",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Biotin",
+          "amount": 500,
+          "unit": "mcg",
+          "when": "morning"
+        },
+        {
+          "name": "Zinc",
+          "amount": 15,
+          "unit": "mg",
+          "when": "with lunch"
+        },
+        {
+          "name": "Hyaluronic Acid",
+          "amount": 120,
+          "unit": "mg",
+          "when": "with dinner"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "32a3438d-dcff-438b-bcec-dbbc6eaed867",
+      "title": "Immune Support",
+      "title_key": "routine_title_immune_support",
+      "goal": "Seasonal immune support",
+      "goal_key": "routine_goal_immune_support",
+      "items": [
+        {
+          "name": "Vitamin C",
+          "amount": 1000,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Vitamin D3",
+          "amount": 2000,
+          "unit": "IU",
+          "when": "with meal"
+        },
+        {
+          "name": "Zinc",
+          "amount": 15,
+          "unit": "mg",
+          "when": "with lunch"
+        },
+        {
+          "name": "Elderberry",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        },
+        {
+          "name": "Echinacea",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "da6d0c71-b7e0-4de2-ba2c-3959b1c62051",
+      "title": "Weight & Appetite",
+      "title_key": "routine_title_weight_appetite",
+      "goal": "Appetite management and metabolism",
+      "goal_key": "routine_goal_weight_appetite",
+      "items": [
+        {
+          "name": "Glucomannan",
+          "amount": 2,
+          "unit": "capsules",
+          "when": "30 min before lunch"
+        },
+        {
+          "name": "Green Tea Extract",
+          "amount": 500,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "L-Carnitine",
+          "amount": 1000,
+          "unit": "mg",
+          "when": "pre-workout or morning"
+        },
+        {
+          "name": "Caffeine",
+          "amount": 100,
+          "unit": "mg",
+          "when": "morning (optional)"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "4b16b9d9-1c75-4035-b786-0a9aee8a3a98",
+      "title": "Blood Sugar Support",
+      "title_key": "routine_title_blood_sugar_support",
+      "goal": "Post-meal blood sugar management (lifestyle)",
+      "goal_key": "routine_goal_blood_sugar_support",
+      "items": [
+        {
+          "name": "Berberine",
+          "amount": 500,
+          "unit": "mg",
+          "when": "with lunch"
+        },
+        {
+          "name": "Apple Cider Vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "when": "before meal",
+          "notes": "Dilute in water"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 200,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "Chromium",
+          "amount": 200,
+          "unit": "mcg",
+          "when": "with breakfast"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "83c4b2d0-130e-42d7-bc44-5d8ebe0db894",
+      "title": "Brain & Memory",
+      "title_key": "routine_title_brain_memory",
+      "goal": "Cerebral circulation & cognition",
+      "goal_key": "routine_goal_brain_memory",
+      "items": [
+        {
+          "name": "Lion's Mane Mushroom",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        },
+        {
+          "name": "Phosphatidylserine",
+          "amount": 100,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Alpha-GPC",
+          "amount": 300,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Ginkgo Biloba",
+          "amount": 120,
+          "unit": "mg",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Coenzyme Q10",
+          "amount": 100,
+          "unit": "mg",
+          "when": "with meal"
+        }
+      ],
+      "interactions": []
+    },
+    {
+      "id": "b4580cc9-335f-4ad5-a810-d709fbf2c710",
+      "title": "Anticoagulant-Safe",
+      "title_key": "routine_title_anticoagulant_safe",
+      "goal": "For users on anticoagulants/antiplatelets",
+      "goal_key": "routine_goal_anticoagulant_safe",
+      "items": [
+        {
+          "name": "Vitamin D3",
+          "amount": 1000,
+          "unit": "IU",
+          "when": "with meal"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 200,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "B-Complex",
+          "amount": 1,
+          "unit": "tablets",
+          "when": "with breakfast"
+        }
+      ],
+      "interactions": [
+        "Avoid/caution: Ginkgo biloba, very high-dose EPA, and Melatonin (bleeding risk).",
+        "Coenzyme Q10 may reduce warfarin effect — monitor INR if used."
+      ]
+    },
+    {
+      "id": "3d0625d8-d3d2-44a1-a6d3-50b7e3a169b1",
+      "title": "Thyroid-Friendly",
+      "title_key": "routine_title_thyroid_friendly",
+      "goal": "Optimized timing for levothyroxine users",
+      "goal_key": "routine_goal_thyroid_friendly",
+      "items": [
+        {
+          "name": "Vitamin D3",
+          "amount": 1000,
+          "unit": "IU",
+          "when": "with lunch"
+        },
+        {
+          "name": "Selenium",
+          "amount": 100,
+          "unit": "mcg",
+          "when": "with dinner"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 200,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "Omega-3 Fish Oil (EPA & DHA)",
+          "amount": 1000,
+          "unit": "mg",
+          "when": "with dinner"
+        }
+      ],
+      "interactions": [
+        "Separate levothyroxine by ≥4h from calcium/iron/magnesium, fibers (psyllium/inulin/pectin) and soy.",
+        "Avoid Ashwagandha if thyroid condition is unstable or when on levothyroxine."
+      ]
+    },
+    {
+      "id": "b7a1bbeb-4699-48a9-a184-9df6eaf577c3",
+      "title": "SSRI-Friendly Focus",
+      "title_key": "routine_title_ssri_friendly_focus",
+      "goal": "Focus/calm while on SSRI/SNRI",
+      "goal_key": "routine_goal_ssri_friendly_focus",
+      "items": [
+        {
+          "name": "L-Theanine",
+          "amount": 200,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Rhodiola Rosea",
+          "amount": 150,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Vitamin D3",
+          "amount": 1000,
+          "unit": "IU",
+          "when": "with meal"
+        },
+        {
+          "name": "Omega-3 Fish Oil (EPA & DHA)",
+          "amount": 1000,
+          "unit": "mg",
+          "when": "with lunch"
+        }
+      ],
+      "interactions": [
+        "Avoid 5-HTP/tryptophan with SSRI/SNRI/MAOI (serotonin syndrome risk).",
+        "Limit late-day caffeine if anxious or sensitive to sleep disruption."
+      ]
+    },
+    {
+      "id": "3463aa35-d1fa-442c-b5ba-8609f7b8709d",
+      "title": "Metabolic Support",
+      "title_key": "routine_title_metabolic_support",
+      "goal": "Triglycerides, insulin sensitivity, cellular energy",
+      "goal_key": "routine_goal_metabolic_support",
+      "items": [
+        {
+          "name": "Omega-3 Fish Oil (EPA & DHA)",
+          "amount": 2000,
+          "unit": "mg",
+          "when": "split with meals"
+        },
+        {
+          "name": "Berberine",
+          "amount": 500,
+          "unit": "mg",
+          "when": "with lunch"
+        },
+        {
+          "name": "Coenzyme Q10",
+          "amount": 100,
+          "unit": "mg",
+          "when": "with breakfast"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 200,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "Chromium",
+          "amount": 200,
+          "unit": "mcg",
+          "when": "with breakfast"
+        }
+      ],
+      "interactions": [
+        "Berberine: P-gp/CYP3A4 interactions and glucose-lowering — monitor if combined with drugs.",
+        "CoQ10: caution with warfarin."
+      ]
+    },
+    {
+      "id": "225b9332-f6df-45a8-b6ac-64cbb650da02",
+      "title": "Low-Stim Workout",
+      "title_key": "routine_title_low_stim_workout",
+      "goal": "Performance without heavy stimulants",
+      "goal_key": "routine_goal_low_stim_workout",
+      "items": [
+        {
+          "name": "Creatine Monohydrate",
+          "amount": 5,
+          "unit": "g",
+          "when": "post-workout"
+        },
+        {
+          "name": "Beta-Alanine",
+          "amount": 3.2,
+          "unit": "g",
+          "when": "pre-workout"
+        },
+        {
+          "name": "Whey Protein",
+          "amount": 1,
+          "unit": "scoops",
+          "when": "post-workout"
+        },
+        {
+          "name": "Electrolyte Blend",
+          "amount": 1,
+          "unit": "servings",
+          "when": "intra-workout"
+        },
+        {
+          "name": "Magnesium",
+          "amount": 200,
+          "unit": "mg",
+          "when": "before bed"
+        }
+      ],
+      "interactions": [
+        "Separate magnesium from tetracyclines/fluoroquinolones (≥2h before or 4–6h after).",
+        "If on levothyroxine, separate minerals by ≥4h."
+      ]
+    },
+    {
+      "id": "0fb7b69a-db8b-4bf9-aa71-bb1246853c89",
+      "title": "Seasonal Immune",
+      "title_key": "routine_title_seasonal_immune",
+      "goal": "Seasonal immune maintenance",
+      "goal_key": "routine_goal_seasonal_immune",
+      "items": [
+        {
+          "name": "Vitamin D3",
+          "amount": 1000,
+          "unit": "IU",
+          "when": "with meal"
+        },
+        {
+          "name": "Vitamin C",
+          "amount": 500,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Zinc",
+          "amount": 15,
+          "unit": "mg",
+          "when": "with lunch"
+        },
+        {
+          "name": "Elderberry",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        },
+        {
+          "name": "Probiotic (L. acidophilus)",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        }
+      ],
+      "interactions": [
+        "If taking antibiotics, space probiotics by a few hours."
+      ]
+    },
+    {
+      "id": "11091493-a4c5-45e2-b212-f680f7b21284",
+      "title": "Cognitive & Memory Safe",
+      "title_key": "routine_title_cognitive_memory_safe",
+      "goal": "Cognition support with interaction cautions",
+      "goal_key": "routine_goal_cognitive_memory_safe",
+      "items": [
+        {
+          "name": "Lion's Mane Mushroom",
+          "amount": 1,
+          "unit": "capsules",
+          "when": "morning"
+        },
+        {
+          "name": "Phosphatidylserine",
+          "amount": 100,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Alpha-GPC",
+          "amount": 300,
+          "unit": "mg",
+          "when": "morning"
+        },
+        {
+          "name": "Ginkgo Biloba",
+          "amount": 120,
+          "unit": "mg",
+          "when": "with breakfast"
+        }
+      ],
+      "interactions": [
+        "Ginkgo: use caution with antiplatelets/anticoagulants."
+      ]
+    },
+    {
+      "id": "6e9e3d46-2635-4ed1-9f06-958008c5788a",
+      "title": "Sleep-Calm",
+      "title_key": "routine_title_sleep_calm",
+      "goal": "Gentle sleep support with minimal interactions",
+      "goal_key": "routine_goal_sleep_calm",
+      "items": [
+        {
+          "name": "Magnesium",
+          "amount": 200,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "L-Theanine",
+          "amount": 200,
+          "unit": "mg",
+          "when": "evening"
+        },
+        {
+          "name": "Melatonin",
+          "amount": 1,
+          "unit": "mg",
+          "when": "30 min before bed"
+        }
+      ],
+      "interactions": [
+        "Melatonin: caution with anticoagulants/antiplatelets, anticonvulsants or antihypertensives."
+      ]
+    }
+  ]
+}

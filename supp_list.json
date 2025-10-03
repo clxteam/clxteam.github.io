@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Raspberry Ketone",
+    "description": "Supports fat metabolism and may aid weight management.",
+    "dosage": "other",
+    "description_key": "desc_raspberry_ketone"
+  },
+  {
+    "name": "Potassium",
+    "description": "Maintains normal fluid balance and supports muscle nerve function.",
+    "dosage": "mg",
+    "description_key": "desc_potassium"
+  },
+  {
+    "name": "Beta-Alanine",
+    "description": "Buffers lactic acid to improve muscular endurance during high‑intensity exercise.",
+    "dosage": "mg",
+    "description_key": "desc_beta_alanine"
+  },
+  {
+    "name": "Vitamin E",
+    "description": "Powerful antioxidant that helps protect cells from oxidative stress.",
+    "dosage": "mg",
+    "description_key": "desc_vitamin_e"
+  },
+  {
+    "name": "Glucomannan",
+    "description": "Soluble fiber that promotes satiety and supports healthy cholesterol.",
+    "dosage": "other",
+    "description_key": "desc_glucomannan"
+  },
+  {
+    "name": "Chromium",
+    "description": "Trace mineral that supports glucose metabolism and insulin function.",
+    "dosage": "mg",
+    "description_key": "desc_chromium"
+  },
+  {
+    "name": "Zinc",
+    "description": "Essential mineral for immunity, skin health, and enzyme activity.",
+    "dosage": "mg",
+    "description_key": "desc_zinc"
+  },
+  {
+    "name": "Casein Protein",
+    "description": "Slow‑digesting protein that supports overnight muscle recovery and growth.",
+    "dosage": "scoops",
+    "description_key": "desc_casein_protein"
+  },
+  {
+    "name": "Soy Protein",
+    "description": "Complete plant protein source that supports muscle maintenance.",
+    "dosage": "scoops",
+    "description_key": "desc_soy_protein"
+  },
+  {
+    "name": "Vitamin B12",
+    "description": "Supports red blood cell formation and normal neurological function.",
+    "dosage": "mcg",
+    "description_key": "desc_vitamin_b12"
+  },
+  {
+    "name": "Alpha-Lipoic Acid",
+    "description": "Universal antioxidant that supports metabolism and healthy nerve function.",
+    "dosage": "mg",
+    "description_key": "desc_alpha_lipoic_acid"
+  },
+  {
+    "name": "Vitamin K",
+    "description": "Supports normal blood clotting and works with vitamin D for bones.",
+    "dosage": "mg",
+    "description_key": "desc_vitamin_k"
+  },
+  {
+    "name": "Forskolin",
+    "description": "Herbal extract traditionally used for body composition and metabolic support.",
+    "dosage": "other",
+    "description_key": "desc_forskolin"
+  },
+  {
+    "name": "Pre-Workout",
+    "description": "Energy and focus blend to boost performance before training.",
+    "dosage": "scoops",
+    "description_key": "desc_pre_workout"
+  },
+  {
+    "name": "Green Tea Extract",
+    "description": "Provides catechins including EGCG to support metabolism and antioxidants.",
+    "dosage": "other",
+    "description_key": "desc_green_tea_extract"
+  },
+  {
+    "name": "Phosphatidylserine",
+    "description": "Phospholipid that supports memory, focus, and stress resilience.",
+    "dosage": "mg",
+    "description_key": "desc_phosphatidylserine"
+  },
+  {
+    "name": "Chondroitin",
+    "description": "Supports joint cartilage integrity and comfort.",
+    "dosage": "other",
+    "description_key": "desc_chondroitin"
+  },
+  {
+    "name": "Beta-Glucan",
+    "description": "Soluble fiber that supports immune modulation and heart health.",
+    "dosage": "other",
+    "description_key": "desc_beta_glucan"
+  },
+  {
+    "name": "Apple Pectin",
+    "description": "Fiber from apples that supports digestion and gut regularity.",
+    "dosage": "other",
+    "description_key": "desc_apple_pectin"
+  },
+  {
+    "name": "Bifidobacterium",
+    "description": "Probiotic strain that supports intestinal balance and digestion.",
+    "dosage": "capsules",
+    "description_key": "desc_bifidobacterium"
+  },
+  {
+    "name": "Fructooligosaccharides",
+    "description": "Prebiotic fibers that feed beneficial gut bacteria.",
+    "dosage": "other",
+    "description_key": "desc_fructooligosaccharides"
+  },
+  {
+    "name": "Melatonin",
+    "description": "Helps regulate sleep–wake cycles and supports restful sleep.",
+    "dosage": "other",
+    "description_key": "desc_melatonin"
+  },
+  {
+    "name": "Selenium",
+    "description": "Antioxidant trace mineral that supports thyroid function and immunity.",
+    "dosage": "mcg",
+    "description_key": "desc_selenium"
+  },
+  {
+    "name": "Ginkgo Biloba",
+    "description": "Herbal extract that supports circulation and cognitive performance.",
+    "dosage": "other",
+    "description_key": "desc_ginkgo_biloba"
+  },
+  {
+    "name": "Magnesium",
+    "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+    "dosage": "mg",
+    "description_key": "desc_magnesium"
+  },
+  {
+    "name": "L-Carnitine",
+    "description": "Transports fatty acids into mitochondria to support energy and fat metabolism.",
+    "dosage": "mg",
+    "description_key": "desc_l_carnitine"
+  },
+  {
+    "name": "Conjugated Linoleic Acid (CLA)",
+    "description": "Fatty acid that supports healthy body composition.",
+    "dosage": "other",
+    "description_key": "desc_conjugated_linoleic_acid_cla"
+  },
+  {
+    "name": "Omega-9 Oil",
+    "description": "Monounsaturated fats that support heart health.",
+    "dosage": "ml",
+    "description_key": "desc_omega_9_oil"
+  },
+  {
+    "name": "Lion's Mane Mushroom",
+    "description": "Functional mushroom that supports brain health and focus.",
+    "dosage": "other",
+    "description_key": "desc_lions_mane_mushroom"
+  },
+  {
+    "name": "Psyllium Husk",
+    "description": "Bulk-forming fiber that supports digestive regularity and satiety.",
+    "dosage": "other",
+    "description_key": "desc_psyllium_husk"
+  },
+  {
+    "name": "Inulin",
+    "description": "Prebiotic fiber that nourishes healthy gut bacteria.",
+    "dosage": "other",
+    "description_key": "desc_inulin"
+  },
+  {
+    "name": "Saccharomyces Boulardii",
+    "description": "Probiotic yeast that supports healthy bowel function.",
+    "dosage": "capsules",
+    "description_key": "desc_saccharomyces_boulardii"
+  },
+  {
+    "name": "Pectin",
+    "description": "Gelling fiber that supports bowel regularity and gut comfort.",
+    "dosage": "other",
+    "description_key": "desc_pectin"
+  },
+  {
+    "name": "Flaxseed Oil",
+    "description": "Plant-based ALA omega‑3s that support cardiovascular health.",
+    "dosage": "ml",
+    "description_key": "desc_flaxseed_oil"
+  },
+  {
+    "name": "Caffeine",
+    "description": "Stimulant that enhances alertness, energy, and performance.",
+    "dosage": "other",
+    "description_key": "desc_caffeine"
+  },
+  {
+    "name": "Coenzyme Q10",
+    "description": "Mitochondrial cofactor supporting heart health and cellular energy.",
+    "dosage": "mg",
+    "description_key": "desc_coenzyme_q10"
+  },
+  {
+    "name": "Ginseng",
+    "description": "Adaptogenic herb that supports energy and stress resistance.",
+    "dosage": "other",
+    "description_key": "desc_ginseng"
+  },
+  {
+    "name": "Vitamin A",
+    "description": "Supports vision, immune defenses, and healthy skin.",
+    "dosage": "IU",
+    "description_key": "desc_vitamin_a"
+  },
+  {
+    "name": "Vitamin C",
+    "description": "Antioxidant that supports immune defenses and collagen synthesis.",
+    "dosage": "mg",
+    "description_key": "desc_vitamin_c"
+  },
+  {
+    "name": "Vitamin D3",
+    "description": "Supports calcium absorption, bone strength, and immune balance.",
+    "dosage": "IU",
+    "description_key": "desc_vitamin_d3"
+  },
+  {
+    "name": "Calcium",
+    "description": "Major mineral for strong bones, teeth, and muscle function.",
+    "dosage": "other",
+    "description_key": "desc_calcium"
+  },
+  {
+    "name": "Iron",
+    "description": "Carries oxygen in blood; supports energy and cognitive function.",
+    "dosage": "mg",
+    "description_key": "desc_iron"
+  },
+  {
+    "name": "Iodine",
+    "description": "Essential for thyroid hormone production and metabolic rate.",
+    "dosage": "mcg",
+    "description_key": "desc_iodine"
+  },
+  {
+    "name": "Copper",
+    "description": "Trace mineral for iron metabolism and antioxidant enzymes.",
+    "dosage": "mg",
+    "description_key": "desc_copper"
+  },
+  {
+    "name": "Manganese",
+    "description": "Cofactor for metabolism, bone formation, and antioxidants.",
+    "dosage": "mg",
+    "description_key": "desc_manganese"
+  },
+  {
+    "name": "Whey Protein",
+    "description": "Fast‑digesting protein ideal post‑workout for muscle repair.",
+    "dosage": "scoops",
+    "description_key": "desc_whey_protein"
+  },
+  {
+    "name": "BCAA (Branched-Chain Amino Acids)",
+    "description": "Leucine, isoleucine, and valine to support recovery and reduce fatigue.",
+    "dosage": "scoops",
+    "description_key": "desc_bcaa_branched_chain_amino_acids"
+  },
+  {
+    "name": "Glutamine",
+    "description": "Amino acid that supports gut integrity and workout recovery.",
+    "dosage": "mg",
+    "description_key": "desc_glutamine"
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "description": "Well‑researched ergogenic aid for strength, power, and muscle mass.",
+    "dosage": "g",
+    "description_key": "desc_creatine_monohydrate"
+  },
+  {
+    "name": "Arginine",
+    "description": "Precursor to nitric oxide to support pumps and blood flow.",
+    "dosage": "mg",
+    "description_key": "desc_arginine"
+  },
+  {
+    "name": "Taurine",
+    "description": "Amino sulfonic acid for hydration, endurance, and nerve health.",
+    "dosage": "mg",
+    "description_key": "desc_taurine"
+  },
+  {
+    "name": "Ashwagandha",
+    "description": "Adaptogen that helps manage stress and supports sleep quality.",
+    "dosage": "ml",
+    "description_key": "desc_ashwagandha"
+  },
+  {
+    "name": "Rhodiola Rosea",
+    "description": "Adaptogen for fatigue resistance, mood, and mental performance.",
+    "dosage": "other",
+    "description_key": "desc_rhodiola_rosea"
+  },
+  {
+    "name": "Turmeric (Curcumin)",
+    "description": "Supports joint comfort and a healthy inflammatory response.",
+    "dosage": "other",
+    "description_key": "desc_turmeric_curcumin"
+  },
+  {
+    "name": "Milk Thistle",
+    "description": "Traditional liver tonic supporting detoxification pathways.",
+    "dosage": "other",
+    "description_key": "desc_milk_thistle"
+  },
+  {
+    "name": "Saw Palmetto",
+    "description": "Supports prostate and urinary health in men.",
+    "dosage": "other",
+    "description_key": "desc_saw_palmetto"
+  },
+  {
+    "name": "Echinacea",
+    "description": "Herbal support for innate immune response.",
+    "dosage": "mg",
+    "description_key": "desc_echinacea"
+  },
+  {
+    "name": "Omega-3 Fish Oil (EPA & DHA)",
+    "description": "Marine omega‑3s for heart, brain, eye, and joint health.",
+    "dosage": "ml",
+    "description_key": "desc_omega_3_fish_oil_epa_dha"
+  },
+  {
+    "name": "MCT Oil",
+    "description": "Medium‑chain triglycerides for quick energy and ketogenic support.",
+    "dosage": "ml",
+    "description_key": "desc_mct_oil"
+  },
+  {
+    "name": "Lactobacillus Acidophilus",
+    "description": "Common probiotic species supporting digestive and immune health.",
+    "dosage": "capsules",
+    "description_key": "desc_lactobacillus_acidophilus"
+  },
+  {
+    "name": "Digestive Enzymes",
+    "description": "Enzyme blend to assist protein, fat, and carbohydrate digestion.",
+    "dosage": "capsules",
+    "description_key": "desc_digestive_enzymes"
+  },
+  {
+    "name": "Vitamin B6",
+    "description": "Pyridoxine supports amino acid metabolism and nervous system health.",
+    "dosage": "mg",
+    "description_key": "desc_vitamin_b6"
+  },
+  {
+    "name": "Vitamin B1 (Thiamine)",
+    "description": "Supports carbohydrate metabolism and normal nerve function.",
+    "dosage": "mg",
+    "description_key": "desc_vitamin_b1_thiamine"
+  },
+  {
+    "name": "Vitamin B2 (Riboflavin)",
+    "description": "Key for energy production and antioxidant recycling.",
+    "dosage": "mg",
+    "description_key": "desc_vitamin_b2_riboflavin"
+  },
+  {
+    "name": "Niacin (Vitamin B3)",
+    "description": "Supports energy metabolism and healthy cholesterol levels.",
+    "dosage": "mg",
+    "description_key": "desc_niacin_vitamin_b3"
+  },
+  {
+    "name": "Biotin (Vitamin B7)",
+    "description": "Supports hair, skin, nails, and macronutrient metabolism.",
+    "dosage": "mcg",
+    "description_key": "desc_biotin_vitamin_b7"
+  },
+  {
+    "name": "Vitamin B5 (Pantothenic Acid)",
+    "description": "Supports coenzyme A production and energy metabolism.",
+    "dosage": "mg",
+    "description_key": "desc_vitamin_b5_pantothenic_acid"
+  },
+  {
+    "name": "Vitamin K2 (MK-7)",
+    "description": "Directs calcium to bones and away from arteries.",
+    "dosage": "mcg",
+    "description_key": "desc_vitamin_k2_mk_7"
+  },
+  {
+    "name": "Sodium",
+    "description": "Major electrolyte for fluid balance and nerve signaling.",
+    "dosage": "mg",
+    "description_key": "desc_sodium"
+  },
+  {
+    "name": "Electrolyte Blend",
+    "description": "Balanced mix of minerals to support hydration during activity.",
+    "dosage": "servings",
+    "description_key": "desc_electrolyte_blend"
+  },
+  {
+    "name": "Collagen Peptides",
+    "description": "Supports skin elasticity, joints, and connective tissue.",
+    "dosage": "scoops",
+    "description_key": "desc_collagen_peptides"
+  },
+  {
+    "name": "Hyaluronic Acid",
+    "description": "Hydrating molecule that supports joint lubrication and skin moisture.",
+    "dosage": "mg",
+    "description_key": "desc_hyaluronic_acid"
+  },
+  {
+    "name": "Glucosamine",
+    "description": "Supports joint cartilage repair and comfort.",
+    "dosage": "tablets",
+    "description_key": "desc_glucosamine"
+  },
+  {
+    "name": "MSM",
+    "description": "Sulfur donor that supports joint comfort and antioxidant capacity.",
+    "dosage": "tablets",
+    "description_key": "desc_msm"
+  },
+  {
+    "name": "Quercetin",
+    "description": "Bioflavonoid antioxidant that supports immune and respiratory health.",
+    "dosage": "mg",
+    "description_key": "desc_quercetin"
+  },
+  {
+    "name": "Resveratrol",
+    "description": "Polyphenol that supports healthy aging and cardiovascular function.",
+    "dosage": "mg",
+    "description_key": "desc_resveratrol"
+  },
+  {
+    "name": "NAC (N‑Acetyl Cysteine)",
+    "description": "Precursor to glutathione; supports detox and respiratory health.",
+    "dosage": "mg",
+    "description_key": "desc_nac_n_acetyl_cysteine"
+  },
+  {
+    "name": "L-Theanine",
+    "description": "Amino acid from tea that promotes calm focus without drowsiness.",
+    "dosage": "mg",
+    "description_key": "desc_l_theanine"
+  },
+  {
+    "name": "5-HTP",
+    "description": "Serotonin precursor that supports mood and sleep.",
+    "dosage": "mg",
+    "description_key": "desc_5_htp"
+  },
+  {
+    "name": "Berberine",
+    "description": "Plant alkaloid that supports glucose and lipid metabolism.",
+    "dosage": "mg",
+    "description_key": "desc_berberine"
+  },
+  {
+    "name": "Alpha-GPC",
+    "description": "Choline donor that supports acetylcholine and cognitive performance.",
+    "dosage": "mg",
+    "description_key": "desc_alpha_gpc"
+  },
+  {
+    "name": "HMB",
+    "description": "Leucine metabolite that supports muscle retention and recovery.",
+    "dosage": "mg",
+    "description_key": "desc_hmb"
+  },
+  {
+    "name": "Betaine (TMG)",
+    "description": "Methyl donor supporting homocysteine balance and performance.",
+    "dosage": "mg",
+    "description_key": "desc_betaine_tmg"
+  },
+  {
+    "name": "Apple Cider Vinegar",
+    "description": "Traditionally used to support digestion and post‑meal glucose.",
+    "dosage": "ml",
+    "description_key": "desc_apple_cider_vinegar"
+  },
+  {
+    "name": "Choline (Bitartrate)",
+    "description": "Supports liver function and healthy brain development.",
+    "dosage": "mg",
+    "description_key": "desc_choline_bitartrate"
+  },
+  {
+    "name": "Elderberry",
+    "description": "Berry extract traditionally used for immune support.",
+    "dosage": "other",
+    "description_key": "desc_elderberry"
+  },
+  {
+    "name": "Propolis",
+    "description": "Bee resin with antioxidant and immune‑supporting properties.",
+    "dosage": "capsules",
+    "description_key": "desc_propolis"
+  }
+]
