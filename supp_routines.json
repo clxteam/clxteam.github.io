@@ -16,7 +16,8 @@
           "dosage": "tablets",
           "description_key": "desc_b_complex",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "with breakfast",
+          "when_key": "when_with_breakfast"
         },
         {
           "name": "Vitamin D3",
@@ -24,7 +25,8 @@
           "dosage": "IU",
           "description_key": "desc_vitamin_d3",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Vitamin C",
@@ -32,7 +34,8 @@
           "dosage": "mg",
           "description_key": "desc_vitamin_c",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Magnesium",
@@ -40,7 +43,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
@@ -48,7 +52,8 @@
           "dosage": "ml",
           "description_key": "desc_omega_3_fish_oil_epa_dha",
           "default_dosage_value": 1000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -66,7 +71,8 @@
           "dosage": "mg",
           "description_key": "desc_l_theanine",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "afternoon",
+          "when_key": "when_afternoon"
         },
         {
           "name": "Ashwagandha",
@@ -74,7 +80,8 @@
           "dosage": "ml",
           "description_key": "desc_ashwagandha",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Rhodiola Rosea",
@@ -82,7 +89,8 @@
           "dosage": "other",
           "description_key": "desc_rhodiola_rosea",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Ginkgo Biloba",
@@ -90,7 +98,8 @@
           "dosage": "other",
           "description_key": "desc_ginkgo_biloba",
           "default_dosage_value": 120,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Coenzyme Q10",
@@ -98,7 +107,8 @@
           "dosage": "mg",
           "description_key": "desc_coenzyme_q10",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -116,7 +126,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "Melatonin",
@@ -124,7 +135,8 @@
           "dosage": "other",
           "description_key": "desc_melatonin",
           "default_dosage_value": 0,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "L-Theanine",
@@ -132,7 +144,8 @@
           "dosage": "mg",
           "description_key": "desc_l_theanine",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "afternoon",
+          "when_key": "when_afternoon"
         },
         {
           "name": "Glycine",
@@ -140,7 +153,8 @@
           "dosage": "mg",
           "description_key": "desc_glycine",
           "default_dosage_value": 3000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -158,7 +172,8 @@
           "dosage": "capsules",
           "description_key": "desc_lactobacillus_acidophilus",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "morning (empty stomach)",
+          "when_key": "when_morning_empty_stomach"
         },
         {
           "name": "Bifidobacterium",
@@ -166,7 +181,8 @@
           "dosage": "capsules",
           "description_key": "desc_bifidobacterium",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "morning (empty stomach)",
+          "when_key": "when_morning_empty_stomach"
         },
         {
           "name": "Inulin",
@@ -174,7 +190,8 @@
           "dosage": "other",
           "description_key": "desc_inulin",
           "default_dosage_value": 5,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Psyllium Husk",
@@ -182,7 +199,8 @@
           "dosage": "other",
           "description_key": "desc_psyllium_husk",
           "default_dosage_value": 5,
-          "when": "unspecified"
+          "when": "with dinner",
+          "when_key": "when_with_dinner"
         },
         {
           "name": "Digestive Enzymes",
@@ -190,7 +208,8 @@
           "dosage": "capsules",
           "description_key": "desc_digestive_enzymes",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -208,7 +227,8 @@
           "dosage": "ml",
           "description_key": "desc_omega_3_fish_oil_epa_dha",
           "default_dosage_value": 1000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Coenzyme Q10",
@@ -216,7 +236,8 @@
           "dosage": "mg",
           "description_key": "desc_coenzyme_q10",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Magnesium",
@@ -224,7 +245,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "Berberine",
@@ -232,7 +254,8 @@
           "dosage": "mg",
           "description_key": "desc_berberine",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Vitamin D3",
@@ -240,7 +263,8 @@
           "dosage": "IU",
           "description_key": "desc_vitamin_d3",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -258,7 +282,8 @@
           "dosage": "tablets",
           "description_key": "desc_glucosamine",
           "default_dosage_value": 1500,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Chondroitin",
@@ -266,7 +291,8 @@
           "dosage": "other",
           "description_key": "desc_chondroitin",
           "default_dosage_value": 0,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "MSM",
@@ -274,7 +300,8 @@
           "dosage": "tablets",
           "description_key": "desc_msm",
           "default_dosage_value": 1000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Collagen Peptides",
@@ -282,7 +309,8 @@
           "dosage": "scoops",
           "description_key": "desc_collagen_peptides",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Turmeric (Curcumin)",
@@ -290,7 +318,8 @@
           "dosage": "other",
           "description_key": "desc_turmeric_curcumin",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -308,7 +337,8 @@
           "dosage": "g",
           "description_key": "desc_creatine_monohydrate",
           "default_dosage_value": 5,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Whey Protein",
@@ -316,7 +346,8 @@
           "dosage": "scoops",
           "description_key": "desc_whey_protein",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "after workout",
+          "when_key": "when_after_workout"
         },
         {
           "name": "BCAA (Branched-Chain Amino Acids)",
@@ -324,7 +355,8 @@
           "dosage": "scoops",
           "description_key": "desc_bcaa_branched_chain_amino_acids",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "pre-workout",
+          "when_key": "when_pre_workout"
         },
         {
           "name": "Beta-Alanine",
@@ -332,7 +364,8 @@
           "dosage": "mg",
           "description_key": "desc_beta_alanine",
           "default_dosage_value": 3200,
-          "when": "unspecified"
+          "when": "pre-workout",
+          "when_key": "when_pre_workout"
         },
         {
           "name": "Magnesium",
@@ -340,7 +373,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         }
       ],
       "interactions": []
@@ -358,7 +392,8 @@
           "dosage": "scoops",
           "description_key": "desc_collagen_peptides",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Vitamin C",
@@ -366,7 +401,8 @@
           "dosage": "mg",
           "description_key": "desc_vitamin_c",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Biotin",
@@ -374,7 +410,8 @@
           "dosage": "mcg",
           "description_key": "desc_biotin",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Zinc",
@@ -382,7 +419,8 @@
           "dosage": "mg",
           "description_key": "desc_zinc",
           "default_dosage_value": 15,
-          "when": "unspecified"
+          "when": "with dinner",
+          "when_key": "when_with_dinner"
         },
         {
           "name": "Hyaluronic Acid",
@@ -390,7 +428,8 @@
           "dosage": "mg",
           "description_key": "desc_hyaluronic_acid",
           "default_dosage_value": 120,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -408,7 +447,8 @@
           "dosage": "mg",
           "description_key": "desc_vitamin_c",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Vitamin D3",
@@ -416,7 +456,8 @@
           "dosage": "IU",
           "description_key": "desc_vitamin_d3",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Zinc",
@@ -424,7 +465,8 @@
           "dosage": "mg",
           "description_key": "desc_zinc",
           "default_dosage_value": 15,
-          "when": "unspecified"
+          "when": "with dinner",
+          "when_key": "when_with_dinner"
         },
         {
           "name": "Elderberry",
@@ -432,7 +474,8 @@
           "dosage": "other",
           "description_key": "desc_elderberry",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Echinacea",
@@ -440,7 +483,8 @@
           "dosage": "mg",
           "description_key": "desc_echinacea",
           "default_dosage_value": 400,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -458,7 +502,8 @@
           "dosage": "other",
           "description_key": "desc_glucomannan",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Green Tea Extract",
@@ -466,7 +511,8 @@
           "dosage": "other",
           "description_key": "desc_green_tea_extract",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "L-Carnitine",
@@ -474,7 +520,8 @@
           "dosage": "mg",
           "description_key": "desc_l_carnitine",
           "default_dosage_value": 1000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Caffeine",
@@ -482,7 +529,8 @@
           "dosage": "other",
           "description_key": "desc_caffeine",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         }
       ],
       "interactions": []
@@ -500,7 +548,8 @@
           "dosage": "mg",
           "description_key": "desc_berberine",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Apple Cider Vinegar",
@@ -508,7 +557,8 @@
           "dosage": "ml",
           "description_key": "desc_apple_cider_vinegar",
           "default_dosage_value": 15,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Magnesium",
@@ -516,7 +566,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "Chromium",
@@ -524,7 +575,8 @@
           "dosage": "mg",
           "description_key": "desc_chromium",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -542,7 +594,8 @@
           "dosage": "other",
           "description_key": "desc_lions_mane_mushroom",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Phosphatidylserine",
@@ -550,7 +603,8 @@
           "dosage": "mg",
           "description_key": "desc_phosphatidylserine",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Alpha-GPC",
@@ -558,7 +612,8 @@
           "dosage": "mg",
           "description_key": "desc_alpha_gpc",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Ginkgo Biloba",
@@ -566,7 +621,8 @@
           "dosage": "other",
           "description_key": "desc_ginkgo_biloba",
           "default_dosage_value": 120,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Coenzyme Q10",
@@ -574,7 +630,8 @@
           "dosage": "mg",
           "description_key": "desc_coenzyme_q10",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": []
@@ -592,7 +649,8 @@
           "dosage": "IU",
           "description_key": "desc_vitamin_d3",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Magnesium",
@@ -600,7 +658,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "B-Complex",
@@ -608,7 +667,8 @@
           "dosage": "tablets",
           "description_key": "desc_b_complex",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "with breakfast",
+          "when_key": "when_with_breakfast"
         }
       ],
       "interactions": [
@@ -629,7 +689,8 @@
           "dosage": "IU",
           "description_key": "desc_vitamin_d3",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Selenium",
@@ -637,7 +698,8 @@
           "dosage": "mcg",
           "description_key": "desc_selenium",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Magnesium",
@@ -645,7 +707,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
@@ -653,7 +716,8 @@
           "dosage": "ml",
           "description_key": "desc_omega_3_fish_oil_epa_dha",
           "default_dosage_value": 1000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": [
@@ -674,7 +738,8 @@
           "dosage": "mg",
           "description_key": "desc_l_theanine",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "afternoon",
+          "when_key": "when_afternoon"
         },
         {
           "name": "Rhodiola Rosea",
@@ -682,7 +747,8 @@
           "dosage": "other",
           "description_key": "desc_rhodiola_rosea",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Vitamin D3",
@@ -690,7 +756,8 @@
           "dosage": "IU",
           "description_key": "desc_vitamin_d3",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
@@ -698,7 +765,8 @@
           "dosage": "ml",
           "description_key": "desc_omega_3_fish_oil_epa_dha",
           "default_dosage_value": 1000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": [
@@ -719,7 +787,8 @@
           "dosage": "ml",
           "description_key": "desc_omega_3_fish_oil_epa_dha",
           "default_dosage_value": 1000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Berberine",
@@ -727,7 +796,8 @@
           "dosage": "mg",
           "description_key": "desc_berberine",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Coenzyme Q10",
@@ -735,7 +805,8 @@
           "dosage": "mg",
           "description_key": "desc_coenzyme_q10",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Magnesium",
@@ -743,7 +814,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "Chromium",
@@ -751,7 +823,8 @@
           "dosage": "mg",
           "description_key": "desc_chromium",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": [
@@ -772,7 +845,8 @@
           "dosage": "g",
           "description_key": "desc_creatine_monohydrate",
           "default_dosage_value": 5,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Beta-Alanine",
@@ -780,7 +854,8 @@
           "dosage": "mg",
           "description_key": "desc_beta_alanine",
           "default_dosage_value": 3200,
-          "when": "unspecified"
+          "when": "pre-workout",
+          "when_key": "when_pre_workout"
         },
         {
           "name": "Whey Protein",
@@ -788,7 +863,8 @@
           "dosage": "scoops",
           "description_key": "desc_whey_protein",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "after workout",
+          "when_key": "when_after_workout"
         },
         {
           "name": "Electrolyte Blend",
@@ -796,7 +872,8 @@
           "dosage": "servings",
           "description_key": "desc_electrolyte_blend",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Magnesium",
@@ -804,7 +881,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         }
       ],
       "interactions": [
@@ -825,7 +903,8 @@
           "dosage": "IU",
           "description_key": "desc_vitamin_d3",
           "default_dosage_value": 2000,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Vitamin C",
@@ -833,7 +912,8 @@
           "dosage": "mg",
           "description_key": "desc_vitamin_c",
           "default_dosage_value": 500,
-          "when": "unspecified"
+          "when": "morning",
+          "when_key": "when_morning"
         },
         {
           "name": "Zinc",
@@ -841,7 +921,8 @@
           "dosage": "mg",
           "description_key": "desc_zinc",
           "default_dosage_value": 15,
-          "when": "unspecified"
+          "when": "with dinner",
+          "when_key": "when_with_dinner"
         },
         {
           "name": "Elderberry",
@@ -849,7 +930,8 @@
           "dosage": "other",
           "description_key": "desc_elderberry",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Lactobacillus Acidophilus",
@@ -857,7 +939,8 @@
           "dosage": "capsules",
           "description_key": "desc_lactobacillus_acidophilus",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "morning (empty stomach)",
+          "when_key": "when_morning_empty_stomach"
         }
       ],
       "interactions": [
@@ -877,7 +960,8 @@
           "dosage": "other",
           "description_key": "desc_lions_mane_mushroom",
           "default_dosage_value": 1,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Phosphatidylserine",
@@ -885,7 +969,8 @@
           "dosage": "mg",
           "description_key": "desc_phosphatidylserine",
           "default_dosage_value": 100,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Alpha-GPC",
@@ -893,7 +978,8 @@
           "dosage": "mg",
           "description_key": "desc_alpha_gpc",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         },
         {
           "name": "Ginkgo Biloba",
@@ -901,7 +987,8 @@
           "dosage": "other",
           "description_key": "desc_ginkgo_biloba",
           "default_dosage_value": 120,
-          "when": "unspecified"
+          "when": "with lunch",
+          "when_key": "when_with_lunch"
         }
       ],
       "interactions": [
@@ -921,7 +1008,8 @@
           "dosage": "mg",
           "description_key": "desc_magnesium",
           "default_dosage_value": 300,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         },
         {
           "name": "L-Theanine",
@@ -929,7 +1017,8 @@
           "dosage": "mg",
           "description_key": "desc_l_theanine",
           "default_dosage_value": 200,
-          "when": "unspecified"
+          "when": "afternoon",
+          "when_key": "when_afternoon"
         },
         {
           "name": "Melatonin",
@@ -937,7 +1026,8 @@
           "dosage": "other",
           "description_key": "desc_melatonin",
           "default_dosage_value": 0,
-          "when": "unspecified"
+          "when": "before bed",
+          "when_key": "when_before_bed"
         }
       ],
       "interactions": [
