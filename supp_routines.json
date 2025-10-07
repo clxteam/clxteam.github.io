@@ -12,33 +12,43 @@
       "items": [
         {
           "name": "B-Complex",
-          "amount": 1,
-          "unit": "tablets",
-          "when": "with breakfast"
+          "description": "Auto-added from routines; description pending.",
+          "dosage": "tablets",
+          "description_key": "desc_b_complex",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Vitamin D3",
-          "amount": 2000,
-          "unit": "IU",
-          "when": "with lunch"
+          "description": "Supports calcium absorption, bone strength, and immune balance.",
+          "dosage": "IU",
+          "description_key": "desc_vitamin_d3",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         },
         {
           "name": "Vitamin C",
-          "amount": 500,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Antioxidant that supports immune defenses and collagen synthesis.",
+          "dosage": "mg",
+          "description_key": "desc_vitamin_c",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 300,
-          "unit": "mg",
-          "when": "before bed"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
-          "amount": 1000,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Marine omega‑3s for heart, brain, eye, and joint health.",
+          "dosage": "ml",
+          "description_key": "desc_omega_3_fish_oil_epa_dha",
+          "default_dosage_value": 1000,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -52,33 +62,43 @@
       "items": [
         {
           "name": "L-Theanine",
-          "amount": 200,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Amino acid from tea that promotes calm focus without drowsiness.",
+          "dosage": "mg",
+          "description_key": "desc_l_theanine",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         },
         {
           "name": "Ashwagandha",
-          "amount": 300,
-          "unit": "mg",
-          "when": "afternoon"
+          "description": "Adaptogen that helps manage stress and supports sleep quality.",
+          "dosage": "ml",
+          "description_key": "desc_ashwagandha",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Rhodiola Rosea",
-          "amount": 200,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Adaptogen for fatigue resistance, mood, and mental performance.",
+          "dosage": "other",
+          "description_key": "desc_rhodiola_rosea",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         },
         {
           "name": "Ginkgo Biloba",
-          "amount": 120,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Herbal extract that supports circulation and cognitive performance.",
+          "dosage": "other",
+          "description_key": "desc_ginkgo_biloba",
+          "default_dosage_value": 120,
+          "when": "unspecified"
         },
         {
           "name": "Coenzyme Q10",
-          "amount": 150,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Mitochondrial cofactor supporting heart health and cellular energy.",
+          "dosage": "mg",
+          "description_key": "desc_coenzyme_q10",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -92,28 +112,35 @@
       "items": [
         {
           "name": "Magnesium",
-          "amount": 300,
-          "unit": "mg",
-          "when": "30–60 min before bed"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Melatonin",
-          "amount": 2,
-          "unit": "mg",
-          "when": "30 min before bed"
+          "description": "Helps regulate sleep–wake cycles and supports restful sleep.",
+          "dosage": "other",
+          "description_key": "desc_melatonin",
+          "default_dosage_value": 0,
+          "when": "unspecified"
         },
         {
           "name": "L-Theanine",
-          "amount": 200,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Amino acid from tea that promotes calm focus without drowsiness.",
+          "dosage": "mg",
+          "description_key": "desc_l_theanine",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         },
         {
           "name": "Glycine",
-          "amount": 3000,
-          "unit": "mg",
-          "when": "before bed",
-          "notes": "If available in catalog"
+          "description": "Auto-added from routines; description pending.",
+          "dosage": "mg",
+          "description_key": "desc_glycine",
+          "default_dosage_value": 3000,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -126,34 +153,44 @@
       "goal_key": "routine_goal_gut_digestion",
       "items": [
         {
-          "name": "Probiotic (Lactobacillus Acidophilus)",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "name": "Lactobacillus Acidophilus",
+          "description": "Common probiotic species supporting digestive and immune health.",
+          "dosage": "capsules",
+          "description_key": "desc_lactobacillus_acidophilus",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Bifidobacterium",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "description": "Probiotic strain that supports intestinal balance and digestion.",
+          "dosage": "capsules",
+          "description_key": "desc_bifidobacterium",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Inulin",
-          "amount": 5,
-          "unit": "g",
-          "when": "with breakfast"
+          "description": "Prebiotic fiber that nourishes healthy gut bacteria.",
+          "dosage": "other",
+          "description_key": "desc_inulin",
+          "default_dosage_value": 5,
+          "when": "unspecified"
         },
         {
           "name": "Psyllium Husk",
-          "amount": 5,
-          "unit": "g",
-          "when": "with water, morning"
+          "description": "Bulk-forming fiber that supports digestive regularity and satiety.",
+          "dosage": "other",
+          "description_key": "desc_psyllium_husk",
+          "default_dosage_value": 5,
+          "when": "unspecified"
         },
         {
           "name": "Digestive Enzymes",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "with main meal"
+          "description": "Enzyme blend to assist protein, fat, and carbohydrate digestion.",
+          "dosage": "capsules",
+          "description_key": "desc_digestive_enzymes",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -167,33 +204,43 @@
       "items": [
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
-          "amount": 1000,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Marine omega‑3s for heart, brain, eye, and joint health.",
+          "dosage": "ml",
+          "description_key": "desc_omega_3_fish_oil_epa_dha",
+          "default_dosage_value": 1000,
+          "when": "unspecified"
         },
         {
           "name": "Coenzyme Q10",
-          "amount": 150,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Mitochondrial cofactor supporting heart health and cellular energy.",
+          "dosage": "mg",
+          "description_key": "desc_coenzyme_q10",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 300,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Berberine",
-          "amount": 500,
-          "unit": "mg",
-          "when": "with dinner"
+          "description": "Plant alkaloid that supports glucose and lipid metabolism.",
+          "dosage": "mg",
+          "description_key": "desc_berberine",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Vitamin D3",
-          "amount": 2000,
-          "unit": "IU",
-          "when": "with meal"
+          "description": "Supports calcium absorption, bone strength, and immune balance.",
+          "dosage": "IU",
+          "description_key": "desc_vitamin_d3",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -207,33 +254,43 @@
       "items": [
         {
           "name": "Glucosamine",
-          "amount": 1500,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Supports joint cartilage repair and comfort.",
+          "dosage": "tablets",
+          "description_key": "desc_glucosamine",
+          "default_dosage_value": 1500,
+          "when": "unspecified"
         },
         {
           "name": "Chondroitin",
-          "amount": 1200,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Supports joint cartilage integrity and comfort.",
+          "dosage": "other",
+          "description_key": "desc_chondroitin",
+          "default_dosage_value": 0,
+          "when": "unspecified"
         },
         {
           "name": "MSM",
-          "amount": 1000,
-          "unit": "mg",
-          "when": "with dinner"
+          "description": "Sulfur donor that supports joint comfort and antioxidant capacity.",
+          "dosage": "tablets",
+          "description_key": "desc_msm",
+          "default_dosage_value": 1000,
+          "when": "unspecified"
         },
         {
           "name": "Collagen Peptides",
-          "amount": 1,
-          "unit": "scoops",
-          "when": "morning shake"
+          "description": "Supports skin elasticity, joints, and connective tissue.",
+          "dosage": "scoops",
+          "description_key": "desc_collagen_peptides",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Turmeric (Curcumin)",
-          "amount": 500,
-          "unit": "mg",
-          "when": "with meal"
+          "description": "Supports joint comfort and a healthy inflammatory response.",
+          "dosage": "other",
+          "description_key": "desc_turmeric_curcumin",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -247,33 +304,43 @@
       "items": [
         {
           "name": "Creatine Monohydrate",
-          "amount": 5,
-          "unit": "g",
-          "when": "post-workout"
+          "description": "Well‑researched ergogenic aid for strength, power, and muscle mass.",
+          "dosage": "g",
+          "description_key": "desc_creatine_monohydrate",
+          "default_dosage_value": 5,
+          "when": "unspecified"
         },
         {
           "name": "Whey Protein",
-          "amount": 1,
-          "unit": "scoops",
-          "when": "post-workout"
+          "description": "Fast‑digesting protein ideal post‑workout for muscle repair.",
+          "dosage": "scoops",
+          "description_key": "desc_whey_protein",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
-          "name": "BCAA",
-          "amount": 1,
-          "unit": "scoops",
-          "when": "intra-workout"
+          "name": "BCAA (Branched-Chain Amino Acids)",
+          "description": "Leucine, isoleucine, and valine to support recovery and reduce fatigue.",
+          "dosage": "scoops",
+          "description_key": "desc_bcaa_branched_chain_amino_acids",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Beta-Alanine",
-          "amount": 3.2,
-          "unit": "g",
-          "when": "pre-workout"
+          "description": "Buffers lactic acid to improve muscular endurance during high‑intensity exercise.",
+          "dosage": "mg",
+          "description_key": "desc_beta_alanine",
+          "default_dosage_value": 3200,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 300,
-          "unit": "mg",
-          "when": "before bed"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -287,33 +354,43 @@
       "items": [
         {
           "name": "Collagen Peptides",
-          "amount": 1,
-          "unit": "scoops",
-          "when": "morning"
+          "description": "Supports skin elasticity, joints, and connective tissue.",
+          "dosage": "scoops",
+          "description_key": "desc_collagen_peptides",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Vitamin C",
-          "amount": 500,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Antioxidant that supports immune defenses and collagen synthesis.",
+          "dosage": "mg",
+          "description_key": "desc_vitamin_c",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Biotin",
-          "amount": 500,
-          "unit": "mcg",
-          "when": "morning"
+          "description": "Auto-added from routines; description pending.",
+          "dosage": "mcg",
+          "description_key": "desc_biotin",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Zinc",
-          "amount": 15,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Essential mineral for immunity, skin health, and enzyme activity.",
+          "dosage": "mg",
+          "description_key": "desc_zinc",
+          "default_dosage_value": 15,
+          "when": "unspecified"
         },
         {
           "name": "Hyaluronic Acid",
-          "amount": 120,
-          "unit": "mg",
-          "when": "with dinner"
+          "description": "Hydrating molecule that supports joint lubrication and skin moisture.",
+          "dosage": "mg",
+          "description_key": "desc_hyaluronic_acid",
+          "default_dosage_value": 120,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -327,33 +404,43 @@
       "items": [
         {
           "name": "Vitamin C",
-          "amount": 1000,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Antioxidant that supports immune defenses and collagen synthesis.",
+          "dosage": "mg",
+          "description_key": "desc_vitamin_c",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Vitamin D3",
-          "amount": 2000,
-          "unit": "IU",
-          "when": "with meal"
+          "description": "Supports calcium absorption, bone strength, and immune balance.",
+          "dosage": "IU",
+          "description_key": "desc_vitamin_d3",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         },
         {
           "name": "Zinc",
-          "amount": 15,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Essential mineral for immunity, skin health, and enzyme activity.",
+          "dosage": "mg",
+          "description_key": "desc_zinc",
+          "default_dosage_value": 15,
+          "when": "unspecified"
         },
         {
           "name": "Elderberry",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "description": "Berry extract traditionally used for immune support.",
+          "dosage": "other",
+          "description_key": "desc_elderberry",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Echinacea",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "description": "Herbal support for innate immune response.",
+          "dosage": "mg",
+          "description_key": "desc_echinacea",
+          "default_dosage_value": 400,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -367,27 +454,35 @@
       "items": [
         {
           "name": "Glucomannan",
-          "amount": 2,
-          "unit": "capsules",
-          "when": "30 min before lunch"
+          "description": "Soluble fiber that promotes satiety and supports healthy cholesterol.",
+          "dosage": "other",
+          "description_key": "desc_glucomannan",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         },
         {
           "name": "Green Tea Extract",
-          "amount": 500,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Provides catechins including EGCG to support metabolism and antioxidants.",
+          "dosage": "other",
+          "description_key": "desc_green_tea_extract",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "L-Carnitine",
-          "amount": 1000,
-          "unit": "mg",
-          "when": "pre-workout or morning"
+          "description": "Transports fatty acids into mitochondria to support energy and fat metabolism.",
+          "dosage": "mg",
+          "description_key": "desc_l_carnitine",
+          "default_dosage_value": 1000,
+          "when": "unspecified"
         },
         {
           "name": "Caffeine",
-          "amount": 100,
-          "unit": "mg",
-          "when": "morning (optional)"
+          "description": "Stimulant that enhances alertness, energy, and performance.",
+          "dosage": "other",
+          "description_key": "desc_caffeine",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -401,28 +496,35 @@
       "items": [
         {
           "name": "Berberine",
-          "amount": 500,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Plant alkaloid that supports glucose and lipid metabolism.",
+          "dosage": "mg",
+          "description_key": "desc_berberine",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Apple Cider Vinegar",
-          "amount": 15,
-          "unit": "ml",
-          "when": "before meal",
-          "notes": "Dilute in water"
+          "description": "Traditionally used to support digestion and post‑meal glucose.",
+          "dosage": "ml",
+          "description_key": "desc_apple_cider_vinegar",
+          "default_dosage_value": 15,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 200,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Chromium",
-          "amount": 200,
-          "unit": "mcg",
-          "when": "with breakfast"
+          "description": "Trace mineral that supports glucose metabolism and insulin function.",
+          "dosage": "mg",
+          "description_key": "desc_chromium",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -436,33 +538,43 @@
       "items": [
         {
           "name": "Lion's Mane Mushroom",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "description": "Functional mushroom that supports brain health and focus.",
+          "dosage": "other",
+          "description_key": "desc_lions_mane_mushroom",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Phosphatidylserine",
-          "amount": 100,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Phospholipid that supports memory, focus, and stress resilience.",
+          "dosage": "mg",
+          "description_key": "desc_phosphatidylserine",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         },
         {
           "name": "Alpha-GPC",
-          "amount": 300,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Choline donor that supports acetylcholine and cognitive performance.",
+          "dosage": "mg",
+          "description_key": "desc_alpha_gpc",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Ginkgo Biloba",
-          "amount": 120,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Herbal extract that supports circulation and cognitive performance.",
+          "dosage": "other",
+          "description_key": "desc_ginkgo_biloba",
+          "default_dosage_value": 120,
+          "when": "unspecified"
         },
         {
           "name": "Coenzyme Q10",
-          "amount": 100,
-          "unit": "mg",
-          "when": "with meal"
+          "description": "Mitochondrial cofactor supporting heart health and cellular energy.",
+          "dosage": "mg",
+          "description_key": "desc_coenzyme_q10",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         }
       ],
       "interactions": []
@@ -476,21 +588,27 @@
       "items": [
         {
           "name": "Vitamin D3",
-          "amount": 1000,
-          "unit": "IU",
-          "when": "with meal"
+          "description": "Supports calcium absorption, bone strength, and immune balance.",
+          "dosage": "IU",
+          "description_key": "desc_vitamin_d3",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 200,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "B-Complex",
-          "amount": 1,
-          "unit": "tablets",
-          "when": "with breakfast"
+          "description": "Auto-added from routines; description pending.",
+          "dosage": "tablets",
+          "description_key": "desc_b_complex",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         }
       ],
       "interactions": [
@@ -507,27 +625,35 @@
       "items": [
         {
           "name": "Vitamin D3",
-          "amount": 1000,
-          "unit": "IU",
-          "when": "with lunch"
+          "description": "Supports calcium absorption, bone strength, and immune balance.",
+          "dosage": "IU",
+          "description_key": "desc_vitamin_d3",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         },
         {
           "name": "Selenium",
-          "amount": 100,
-          "unit": "mcg",
-          "when": "with dinner"
+          "description": "Antioxidant trace mineral that supports thyroid function and immunity.",
+          "dosage": "mcg",
+          "description_key": "desc_selenium",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 200,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
-          "amount": 1000,
-          "unit": "mg",
-          "when": "with dinner"
+          "description": "Marine omega‑3s for heart, brain, eye, and joint health.",
+          "dosage": "ml",
+          "description_key": "desc_omega_3_fish_oil_epa_dha",
+          "default_dosage_value": 1000,
+          "when": "unspecified"
         }
       ],
       "interactions": [
@@ -544,27 +670,35 @@
       "items": [
         {
           "name": "L-Theanine",
-          "amount": 200,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Amino acid from tea that promotes calm focus without drowsiness.",
+          "dosage": "mg",
+          "description_key": "desc_l_theanine",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         },
         {
           "name": "Rhodiola Rosea",
-          "amount": 150,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Adaptogen for fatigue resistance, mood, and mental performance.",
+          "dosage": "other",
+          "description_key": "desc_rhodiola_rosea",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         },
         {
           "name": "Vitamin D3",
-          "amount": 1000,
-          "unit": "IU",
-          "when": "with meal"
+          "description": "Supports calcium absorption, bone strength, and immune balance.",
+          "dosage": "IU",
+          "description_key": "desc_vitamin_d3",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         },
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
-          "amount": 1000,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Marine omega‑3s for heart, brain, eye, and joint health.",
+          "dosage": "ml",
+          "description_key": "desc_omega_3_fish_oil_epa_dha",
+          "default_dosage_value": 1000,
+          "when": "unspecified"
         }
       ],
       "interactions": [
@@ -581,33 +715,43 @@
       "items": [
         {
           "name": "Omega-3 Fish Oil (EPA & DHA)",
-          "amount": 2000,
-          "unit": "mg",
-          "when": "split with meals"
+          "description": "Marine omega‑3s for heart, brain, eye, and joint health.",
+          "dosage": "ml",
+          "description_key": "desc_omega_3_fish_oil_epa_dha",
+          "default_dosage_value": 1000,
+          "when": "unspecified"
         },
         {
           "name": "Berberine",
-          "amount": 500,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Plant alkaloid that supports glucose and lipid metabolism.",
+          "dosage": "mg",
+          "description_key": "desc_berberine",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Coenzyme Q10",
-          "amount": 100,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Mitochondrial cofactor supporting heart health and cellular energy.",
+          "dosage": "mg",
+          "description_key": "desc_coenzyme_q10",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 200,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Chromium",
-          "amount": 200,
-          "unit": "mcg",
-          "when": "with breakfast"
+          "description": "Trace mineral that supports glucose metabolism and insulin function.",
+          "dosage": "mg",
+          "description_key": "desc_chromium",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         }
       ],
       "interactions": [
@@ -624,33 +768,43 @@
       "items": [
         {
           "name": "Creatine Monohydrate",
-          "amount": 5,
-          "unit": "g",
-          "when": "post-workout"
+          "description": "Well‑researched ergogenic aid for strength, power, and muscle mass.",
+          "dosage": "g",
+          "description_key": "desc_creatine_monohydrate",
+          "default_dosage_value": 5,
+          "when": "unspecified"
         },
         {
           "name": "Beta-Alanine",
-          "amount": 3.2,
-          "unit": "g",
-          "when": "pre-workout"
+          "description": "Buffers lactic acid to improve muscular endurance during high‑intensity exercise.",
+          "dosage": "mg",
+          "description_key": "desc_beta_alanine",
+          "default_dosage_value": 3200,
+          "when": "unspecified"
         },
         {
           "name": "Whey Protein",
-          "amount": 1,
-          "unit": "scoops",
-          "when": "post-workout"
+          "description": "Fast‑digesting protein ideal post‑workout for muscle repair.",
+          "dosage": "scoops",
+          "description_key": "desc_whey_protein",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Electrolyte Blend",
-          "amount": 1,
-          "unit": "servings",
-          "when": "intra-workout"
+          "description": "Balanced mix of minerals to support hydration during activity.",
+          "dosage": "servings",
+          "description_key": "desc_electrolyte_blend",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Magnesium",
-          "amount": 200,
-          "unit": "mg",
-          "when": "before bed"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         }
       ],
       "interactions": [
@@ -667,33 +821,43 @@
       "items": [
         {
           "name": "Vitamin D3",
-          "amount": 1000,
-          "unit": "IU",
-          "when": "with meal"
+          "description": "Supports calcium absorption, bone strength, and immune balance.",
+          "dosage": "IU",
+          "description_key": "desc_vitamin_d3",
+          "default_dosage_value": 2000,
+          "when": "unspecified"
         },
         {
           "name": "Vitamin C",
-          "amount": 500,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Antioxidant that supports immune defenses and collagen synthesis.",
+          "dosage": "mg",
+          "description_key": "desc_vitamin_c",
+          "default_dosage_value": 500,
+          "when": "unspecified"
         },
         {
           "name": "Zinc",
-          "amount": 15,
-          "unit": "mg",
-          "when": "with lunch"
+          "description": "Essential mineral for immunity, skin health, and enzyme activity.",
+          "dosage": "mg",
+          "description_key": "desc_zinc",
+          "default_dosage_value": 15,
+          "when": "unspecified"
         },
         {
           "name": "Elderberry",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "description": "Berry extract traditionally used for immune support.",
+          "dosage": "other",
+          "description_key": "desc_elderberry",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
-          "name": "Probiotic (L. acidophilus)",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "name": "Lactobacillus Acidophilus",
+          "description": "Common probiotic species supporting digestive and immune health.",
+          "dosage": "capsules",
+          "description_key": "desc_lactobacillus_acidophilus",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         }
       ],
       "interactions": [
@@ -709,27 +873,35 @@
       "items": [
         {
           "name": "Lion's Mane Mushroom",
-          "amount": 1,
-          "unit": "capsules",
-          "when": "morning"
+          "description": "Functional mushroom that supports brain health and focus.",
+          "dosage": "other",
+          "description_key": "desc_lions_mane_mushroom",
+          "default_dosage_value": 1,
+          "when": "unspecified"
         },
         {
           "name": "Phosphatidylserine",
-          "amount": 100,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Phospholipid that supports memory, focus, and stress resilience.",
+          "dosage": "mg",
+          "description_key": "desc_phosphatidylserine",
+          "default_dosage_value": 100,
+          "when": "unspecified"
         },
         {
           "name": "Alpha-GPC",
-          "amount": 300,
-          "unit": "mg",
-          "when": "morning"
+          "description": "Choline donor that supports acetylcholine and cognitive performance.",
+          "dosage": "mg",
+          "description_key": "desc_alpha_gpc",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "Ginkgo Biloba",
-          "amount": 120,
-          "unit": "mg",
-          "when": "with breakfast"
+          "description": "Herbal extract that supports circulation and cognitive performance.",
+          "dosage": "other",
+          "description_key": "desc_ginkgo_biloba",
+          "default_dosage_value": 120,
+          "when": "unspecified"
         }
       ],
       "interactions": [
@@ -745,21 +917,27 @@
       "items": [
         {
           "name": "Magnesium",
-          "amount": 200,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Essential mineral for energy production, muscles, nerves, and relaxation.",
+          "dosage": "mg",
+          "description_key": "desc_magnesium",
+          "default_dosage_value": 300,
+          "when": "unspecified"
         },
         {
           "name": "L-Theanine",
-          "amount": 200,
-          "unit": "mg",
-          "when": "evening"
+          "description": "Amino acid from tea that promotes calm focus without drowsiness.",
+          "dosage": "mg",
+          "description_key": "desc_l_theanine",
+          "default_dosage_value": 200,
+          "when": "unspecified"
         },
         {
           "name": "Melatonin",
-          "amount": 1,
-          "unit": "mg",
-          "when": "30 min before bed"
+          "description": "Helps regulate sleep–wake cycles and supports restful sleep.",
+          "dosage": "other",
+          "description_key": "desc_melatonin",
+          "default_dosage_value": 0,
+          "when": "unspecified"
         }
       ],
       "interactions": [
