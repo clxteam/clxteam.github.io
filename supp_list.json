@@ -607,5 +607,26 @@
     "dosage": "capsules",
     "description_key": "desc_propolis",
     "default_dosage_value": 1
+  },
+  {
+    "name": "B-Complex",
+    "description": "Auto-added from routines; description pending.",
+    "dosage": "tablets",
+    "description_key": "desc_b_complex",
+    "default_dosage_value": 1
+  },
+  {
+    "name": "Glycine",
+    "description": "Auto-added from routines; description pending.",
+    "dosage": "mg",
+    "description_key": "desc_glycine",
+    "default_dosage_value": 3000
+  },
+  {
+    "name": "Biotin",
+    "description": "Auto-added from routines; description pending.",
+    "dosage": "mcg",
+    "description_key": "desc_biotin",
+    "default_dosage_value": 500
   }
 ]
