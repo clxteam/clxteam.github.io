@@ -1,5 +1,13 @@
 [
     {
+    "id": "6754120021",
+    "is_active": true,
+    "title": "Supplement Tracker - SuppAI",
+    "sub_title": "Medication reminder & logs",
+    "link": "https://apps.apple.com/us/app/seniorcare-ai-voice-reminder/id6754120021",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/36/ce/dc36ced8-b79a-073b-f263-eb4f35eb04a7/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/230x0w.webp"
+  },
+    {
     "id": "6752804594",
     "is_active": true,
     "title": "SeniorCare – AI Voice Reminder",
