@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "name": "Nature & Ambience",
+    "color": "#4CAF50",
+    "items": [
+      {
+        "id": 1,
+        "title": "Bubblepop",
+        "link": "https://studyfoc.us/audio/bubblepop.mp3",
+        "icon": "bubble.left.and.bubble.right.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 2,
+        "title": "Chicken",
+        "link": "https://studyfoc.us/audio/chicken.mp3",
+        "icon": "bird.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 3,
+        "title": "Fire",
+        "link": "https://studyfoc.us/audio/fire.mp3",
+        "icon": "flame.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 4,
+        "title": "Night Ambience",
+        "link": "https://studyfoc.us/audio/night-ambience.mp3",
+        "icon": "moon.stars.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 5,
+        "title": "Thunder",
+        "link": "https://studyfoc.us/audio/thunder.mp3",
+        "icon": "cloud.bolt.rain.fill",
+        "isVip": true,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Water & Ocean",
+    "color": "#03A9F4",
+    "items": [
+      {
+        "id": 6,
+        "title": "Tractor",
+        "link": "https://studyfoc.us/audio/tractor.mp3",
+        "icon": "tractor.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 7,
+        "title": "Waterflow",
+        "link": "https://studyfoc.us/audio/waterflow.mp3",
+        "icon": "drop.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 8,
+        "title": "Ocean",
+        "link": "https://studyfoc.us/audio/ocean.mp3",
+        "icon": "waveform.path.ecg.rectangle.fill",
+        "isVip": true,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Noise & Studio",
+    "color": "#9C27B0",
+    "items": [
+      {
+        "id": 9,
+        "title": "Soft Brown Noise",
+        "link": "https://studyfoc.us/audio/soft-brown-noise.mp3",
+        "icon": "waveform.circle.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 10,
+        "title": "Pink Noise",
+        "link": "https://studyfoc.us/audio/pink_noise.mp3",
+        "icon": "waveform.path",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 11,
+        "title": "White Noise",
+        "link": "https://studyfoc.us/audio/white-noise.mp3",
+        "icon": "wind",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 12,
+        "title": "Chalk",
+        "link": "https://studyfoc.us/audio/chalk.mp3",
+        "icon": "pencil.tip.crop.circle.badge.plus",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 13,
+        "title": "Mouse Click",
+        "link": "https://studyfoc.us/audio/mouse-click.mp3",
+        "icon": "cursorarrow.click",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 14,
+        "title": "Typing",
+        "link": "https://studyfoc.us/audio/typing.mp3",
+        "icon": "keyboard.fill",
+        "isVip": true,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Travel & Motion",
+    "color": "#FF9800",
+    "items": [
+      {
+        "id": 15,
+        "title": "Writing",
+        "link": "https://studyfoc.us/audio/writing.mp3",
+        "icon": "pencil.and.outline",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 16,
+        "title": "Airplane",
+        "link": "https://studyfoc.us/audio/airplane.mp3",
+        "icon": "airplane",
+        "isVip": true,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "City & Machines",
+    "color": "#607D8B",
+    "items": [
+      {
+        "id": 17,
+        "title": "City",
+        "link": "https://studyfoc.us/audio/city.mp3",
+        "icon": "building.2.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 18,
+        "title": "Railway",
+        "link": "https://studyfoc.us/audio/railway.mp3",
+        "icon": "tram.fill",
+        "isVip": true,
+        "type": 0
+      },
+      {
+        "id": 19,
+        "title": "Ceiling Fan",
+        "link": "https://studyfoc.us/audio/ceiling-fan.mp3",
+        "icon": "fan.fill",
+        "isVip": false,
+        "type": 0
+      }
+    ]
+  }
+]
