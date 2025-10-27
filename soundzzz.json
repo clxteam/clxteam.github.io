@@ -1,80 +1,184 @@
 [
   {
     "id": 1,
-    "name": "Animal",
+    "name": "Stories and Tales",
     "base_url": "https://sound.5dev.top/",
-    "sub_path": "Animal",
+    "sub_path": "Stories and Tales",
     "color": "#4CAF50",
     "items": [
       {
         "id": 1,
-        "title": "Owl",
-        "link": "OWL 00_00_00-00_00_20.mp3",
-        "icon": "owl.fill",
-        "isVip": false,
+        "title": "Cinderella Tale",
+        "link": "Cinderella.mp3",
+        "icon": "book.fill",
+        "isVip": true,
         "type": 0
       },
       {
-        "id": 2,
-        "title": "Frogs",
-        "link": "Frogs.mp3",
-        "icon": "tortoise.fill",
-        "isVip": false,
-        "type": 0
-      },
-      {
-        "id": 3,
-        "title": "Dolphins",
-        "link": "Dolphins.mp3",
-        "icon": "fish.fill",
-        "isVip": false,
-        "type": 0
-      },
-      {
-        "id": 4,
-        "title": "Crickets",
-        "link": "Crickets.mp3",
-        "icon": "ant.fill",
+        "id": 14,
+        "title": "Rapunzel's Adventure",
+        "link": "Rapunzel_(Story).mp3",
+        "icon": "book.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 5,
-        "title": "Birds",
-        "link": "Birds.mp3",
-        "icon": "bird.fill",
+        "title": "Baby Dragon Myth",
+        "link": "Myth_of_the_Baby_Dragon_(feat._Kelly_Rowland).mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 17,
+        "title": "Sleeping Beauty Tale",
+        "link": "Sleeping_Beauty.mp3",
+        "icon": "book.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 6,
-        "title": "Seagulls",
-        "link": "Seagulls Sounds 00_00_00-00_00_20.mp3",
-        "icon": "bird.fill",
+        "title": "Ocean Moon Story",
+        "link": "The_Ocean_Moon_(feat._Laura_Dern).mp3",
+        "icon": "moon.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 19,
+        "title": "Hansel and Gretel Tale",
+        "link": "Hansel_And_Gretel.mp3",
+        "icon": "book.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 7,
-        "title": "Wolf",
-        "link": "Wolf Howls _ Sound Clips From Orange Free Sounds.mp3",
-        "icon": "pawprint.fill",
+        "title": "Lost Dragons Saga",
+        "link": "The_Lost_Dragons.mp3",
+        "icon": "book.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 8,
-        "title": "Whale",
-        "link": "Whale.mp3",
-        "icon": "fish.fill",
+        "id": 20,
+        "title": "Snow White's Story",
+        "link": "Snow_White_And_The_Seven_Dwarves_(Interpretation_-_Acapella).mp3",
+        "icon": "book.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 9,
-        "title": "Peepers",
-        "link": "Spring-peeper-sound 00_00_00-00_00_20.mp3",
-        "icon": "tortoise.fill",
+        "title": "Egyptian Cat Voyage",
+        "link": "An_Egyptian_Cat_s_Ocean_Adventure.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 21,
+        "title": "Jack's Beanstalk Adventure",
+        "link": "Jack_And_The_Beanstalk.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 4,
+        "title": "Evening Nightfall",
+        "link": "Nightfall_(feat._Eva_Green).mp3",
+        "icon": "moon.stars.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 22,
+        "title": "Ugly Duckling Tale",
+        "link": "The_Ugly_Duckling.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 2,
+        "title": "Ubuntu's Journey",
+        "link": "The_Story_of_Ubuntu_(feat._Lesley-Ann_Brandt).mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 23,
+        "title": "Little Mermaid Story",
+        "link": "The_Little_Mermaid.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 3,
+        "title": "Anatolia's Ancient Paths",
+        "link": "Ancient_Paths_of_Anatolia_(feat._Chiké_Okonkwo).mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 8,
+        "title": "Lost Pyramid Adventure",
+        "link": "The_Lost_Pyramid.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 10,
+        "title": "Rhea's Tale",
+        "link": "The_Story_Of_Rhea.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 11,
+        "title": "Beauty and Beast Story",
+        "link": "Beauty_And_The_Beast.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 12,
+        "title": "Magical Mirror Tale",
+        "link": "The_Magical_Mirror.mp3",
+        "icon": "book.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 13,
+        "title": "Twinkle Star Lullaby",
+        "link": "Twinkle,_Twinkle_Little_Star.mp3",
+        "icon": "star.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 15,
+        "title": "Balloon Journey",
+        "link": "Kids_Sleep_Story__Balloon_Ride.mp3",
+        "icon": "balloon.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 16,
+        "title": "Rockabye Lullaby",
+        "link": "Rockabye_Baby.mp3",
+        "icon": "music.note",
         "isVip": false,
         "type": 0
       }
@@ -85,12 +189,12 @@
     "name": "White Noise",
     "base_url": "https://sound.5dev.top/",
     "sub_path": "White Noise",
-    "color": "#03A9F4",
+    "color": "#9C27B0",
     "items": [
       {
-        "id": 10,
-        "title": "Rain",
-        "link": "Rain 00_00_00-00_00_20.mp3",
+        "id": 24,
+        "title": "Rainy Forest Ambience",
+        "link": "Forest_Rain.mp3",
         "icon": "cloud.rain.fill",
         "isVip": false,
         "type": 0
@@ -98,32 +202,104 @@
       {
         "id": 11,
         "title": "Pink Noise",
-        "link": "Pink Noise 00_00_03-00_00_23.mp3",
+        "link": "Pink_Noise.mp3",
         "icon": "waveform.circle.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 26,
+        "title": "Calm Beach Waves",
+        "link": "Gentle_Sea_Waves_on_Flat_Beach.mp3",
+        "icon": "waveform.path.ecg.rectangle.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 12,
         "title": "Heartbeat",
-        "link": "Heartbeat 00_00_00-00_00_20.mp3",
+        "link": "Heartbeat.mp3",
         "icon": "heart.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 25,
+        "title": "Approaching Thunder Rain",
+        "link": "Light_Raining,_Approaching_Thunder_Storm_fo.mp3",
+        "icon": "cloud.drizzle.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 13,
         "title": "Fan",
-        "link": "Fan 00_00_00-00_00_20.mp3",
+        "link": "Fan.mp3",
         "icon": "fan.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 27,
+        "title": "Lagoon Wave Serenity",
+        "link": "Whispering_Lagoon_Waves_Sound.mp3",
+        "icon": "waveform.path.ecg.rectangle.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 14,
         "title": "Airplane",
-        "link": "Airplane 00_00_00-00_00_20.mp3",
+        "link": "Airplane.mp3",
         "icon": "airplane",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 28,
+        "title": "City Rain Sounds",
+        "link": "Urban_Rain.mp3",
+        "icon": "cloud.rain.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 10,
+        "title": "Rain",
+        "link": "Rain.mp3",
+        "icon": "cloud.rain.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 29,
+        "title": "Campfire Nature Glow",
+        "link": "Outdoor_Campfire_with_Nature_Sounds.mp3",
+        "icon": "flame.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 30,
+        "title": "Soothing Rainstorm",
+        "link": "Soothing_Rains,_Rainstorms_to_Help_Aid_Slee.mp3",
+        "icon": "cloud.rain.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 31,
+        "title": "Rocky Shore Waves",
+        "link": "Gentle_Waves_Crashing_into_the_Rocks.mp3",
+        "icon": "waveform.path.ecg.rectangle.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 32,
+        "title": "Stormy Wind Sounds",
+        "link": "Heavy_Wind_Storm.mp3",
+        "icon": "wind",
         "isVip": false,
         "type": 0
       }
@@ -131,68 +307,131 @@
   },
   {
     "id": 3,
-    "name": "Melody",
+    "name": "Nature Sounds",
     "base_url": "https://sound.5dev.top/",
-    "sub_path": "Melody",
-    "color": "#9C27B0",
+    "sub_path": "Nature Sounds",
+    "color": "#FF9800",
     "items": [
       {
-        "id": 15,
-        "title": "Meditation",
-        "link": "Meditation 00_00_00-00_00_30.mp3",
+        "id": 33,
+        "title": "Brookside Serenity",
+        "link": "Babbling_Brook.mp3",
+        "icon": "drop.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 29,
+        "title": "Ocean Wave",
+        "link": "Ocean_Wave.mp3",
+        "icon": "waveform.path.ecg.rectangle.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 34,
+        "title": "Waterfall Tranquility",
+        "link": "Tranquil_Waterfall_(Sounds_of_Nature)_(mp3cut.net).mp3",
+        "icon": "water.waves",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 28,
+        "title": "Rustling Leaves",
+        "link": "Rustling_Leaves.mp3",
         "icon": "leaf.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 16,
-        "title": "Flute",
-        "link": "Flute 00_00_04-00_00_24.mp3",
-        "icon": "music.note",
+        "id": 35,
+        "title": "Quiet Beach Waves",
+        "link": "Waves_on_a_Quite_Beach.mp3",
+        "icon": "waveform.path.ecg.rectangle.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 17,
-        "title": "Zen",
-        "link": "Zen 00_04_15-00_04_34.mp3",
-        "icon": "sparkles",
+        "id": 27,
+        "title": "Wind Blowing",
+        "link": "Wind_Blowing.mp3",
+        "icon": "wind",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 18,
-        "title": "Baby Music Box",
-        "link": "Baby Music Box.mp3",
-        "icon": "music.quarternote.3",
+        "id": 37,
+        "title": "Forest Birdsong Stream",
+        "link": "Gentle_Birds_and_Forest_Stream_for_Relaxation_Meditation_(mp3cut.net).mp3",
+        "icon": "bird.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 19,
-        "title": "Wind Chimes",
-        "link": "Wind Chimes 00_00_00-00_00_20.mp3",
-        "icon": "bell.fill",
+        "id": 26,
+        "title": "Campfire",
+        "link": "Campfire.mp3",
+        "icon": "flame.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 20,
-        "title": "Guitar",
-        "link": "Guitar 00_00_00-00_00_20.mp3",
-        "icon": "guitars.fill",
+        "id": 39,
+        "title": "Birdsong by Lapping Water",
+        "link": "Birds_Tweeting___Gentle_Lapping_Water.mp3",
+        "icon": "drop.fill",
         "isVip": false,
         "type": 0
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Nature",
-    "base_url": "https://sound.5dev.top/",
-    "sub_path": "Nature",
-    "color": "#FF9800",
-    "items": [
+      },
+      {
+        "id": 25,
+        "title": "Rain",
+        "link": "Rain-_White_Noise.mp3",
+        "icon": "cloud.rain.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 41,
+        "title": "Seagull Ocean Dance",
+        "link": "Flock_of_Sea_Gulls_Dancing_Above_the_Crashing_Sea.mp3",
+        "icon": "bird.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 23,
+        "title": "Waterfall",
+        "link": "Waterfalls.mp3",
+        "icon": "water.waves",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 36,
+        "title": "Arctic Field Breeze",
+        "link": "Relaxation_Systems_(Nature_Sounds)__Arctic_Wind.mp3",
+        "icon": "wind",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 30,
+        "title": "Forest Rain",
+        "link": "Forest_Rain.mp3",
+        "icon": "cloud.rain.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 38,
+        "title": "Owl and Cricket Campfire",
+        "link": "Owl_Sounds_with_Crickets_and_Campfire.mp3",
+        "icon": "flame.fill",
+        "isVip": false,
+        "type": 0
+      },
       {
         "id": 21,
         "title": "Water",
@@ -202,74 +441,163 @@
         "type": 0
       },
       {
-        "id": 22,
-        "title": "Light Rain",
-        "link": "Light Raining 00_00_00-00_00_30.mp3",
+        "id": 40,
+        "title": "Harp Raindrop Lullaby",
+        "link": "Sounds_Of_Simple_Raindrops_Falling_(ASMR_Harp_Lullaby).mp3",
         "icon": "cloud.drizzle.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 23,
-        "title": "Waterfall",
-        "link": "Waterfalls 00_00_00-00_00_20.mp3",
+        "id": 42,
+        "title": "Volpara Waterfall Sounds",
+        "link": "Volpara_Waterfalls.mp3",
         "icon": "water.waves",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 43,
+        "title": "Forest Creek Ambience",
+        "link": "Nature_Sounds_Collection__Birds___Streams,_Vol._1_(Forest_Creek).mp3",
+        "icon": "leaf.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 44,
+        "title": "Prairie Cricket Night",
+        "link": "Nature_Sounds__Prairie_Crickets_at_Night.mp3",
+        "icon": "ant.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 24,
         "title": "Wind Storm",
-        "link": "Wind Storm 00_00_00-00_00_20.mp3",
+        "link": "Wind_Storm.mp3",
         "icon": "wind",
         "isVip": false,
         "type": 0
-      },
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sleep Music",
+    "base_url": "https://sound.5dev.top/",
+    "sub_path": "Sleep Music",
+    "color": "#607D8B",
+    "items": [
       {
-        "id": 25,
-        "title": "Rain",
-        "link": "Rain- White Noise 00_00_00-00_00_20.mp3",
-        "icon": "cloud.rain.fill",
+        "id": 45,
+        "title": "Zen Garden Serenity",
+        "link": "Zen.mp3",
+        "icon": "sparkles",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 26,
-        "title": "Campfire",
-        "link": "Campfire 00_00_00-00_00_20.mp3",
-        "icon": "flame.fill",
+        "id": 20,
+        "title": "Guitar",
+        "link": "Guitar.mp3",
+        "icon": "guitars.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 27,
-        "title": "Wind Blowing",
-        "link": "Wind Blowing 00_00_00-00_00_20.mp3",
-        "icon": "wind",
+        "id": 46,
+        "title": "Ocean Harp Melody",
+        "link": "Harp_Song_Meditation__Ocean_Waves_with_Beautiful_Harp_Music_(by_Amy_Camie).mp3",
+        "icon": "music.note",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 28,
-        "title": "Rustling Leaves",
-        "link": "Rustling Leaves 00_00_00-00_00_20.mp3",
+        "id": 18,
+        "title": "Baby Music Box",
+        "link": "Baby_Music_Box.mp3",
+        "icon": "music.quarternote.3",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 49,
+        "title": "Nature's Sleep Song",
+        "link": "Sleeping_Nature.mp3",
         "icon": "leaf.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 29,
-        "title": "Ocean Wave",
-        "link": "Ocean Wave 00_00_00-00_00_20.mp3",
-        "icon": "waveform.path.ecg.rectangle.fill",
+        "id": 16,
+        "title": "Flute",
+        "link": "Flute.mp3",
+        "icon": "music.note",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 30,
-        "title": "Forest Rain",
-        "link": "Forest Rain 00_00_00-00_00_20.mp3",
-        "icon": "cloud.rain.fill",
+        "id": 50,
+        "title": "Ocean Wave Lullaby",
+        "link": "Go_to_Sleep_(Ocean_Waves).mp3",
+        "icon": "moon.zzz.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 19,
+        "title": "Wind Chimes",
+        "link": "Wind_Chimes.mp3",
+        "icon": "bell.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 51,
+        "title": "Calm Sleep Melody",
+        "link": "Tranquil_Sleep.mp3",
+        "icon": "moon.zzz.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 17,
+        "title": "Zen",
+        "link": "Zen_2.mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 52,
+        "title": "Relaxing Guitar Tunes",
+        "link": "Mindful_Guitar.mp3",
+        "icon": "guitars.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 15,
+        "title": "Meditation",
+        "link": "Meditation.mp3",
+        "icon": "leaf.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 53,
+        "title": "Dreamy Sleep Music",
+        "link": "Deep_Dreams.mp3",
+        "icon": "moon.zzz.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 54,
+        "title": "Mystic Night Melody",
+        "link": "Mystic_Night.mp3",
+        "icon": "moon.stars.fill",
         "isVip": false,
         "type": 0
       }
@@ -277,64 +605,112 @@
   },
   {
     "id": 5,
-    "name": "City",
+    "name": "Guided Meditation",
     "base_url": "https://sound.5dev.top/",
-    "sub_path": "City",
-    "color": "#607D8B",
+    "sub_path": "Guided Meditation",
+    "color": "#8BC34A",
     "items": [
       {
-        "id": 31,
-        "title": "Train",
-        "link": "Train Sound 00_00_00-00_00_20.mp3",
-        "icon": "tram.fill",
+        "id": 1,
+        "title": "Deep Relaxation Meditation",
+        "link": "Guided_Meditation_Towards_Deep_&_Relaxing_Sleep.mp3",
+        "icon": "moon.zzz.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 32,
-        "title": "Urban Rain",
-        "link": "Urban Rain 00_00_00-00_00_20.mp3",
-        "icon": "cloud.rain.fill",
+        "id": 48,
+        "title": "Mindfulness Introduction",
+        "link": "Introduction_to_Mindfulness_Meditation.mp3",
+        "icon": "sparkles",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 33,
-        "title": "Steam Train",
-        "link": "Steam Train 00_00_00-00_00_20.mp3",
-        "icon": "tram.fill",
+        "id": 9,
+        "title": "Restful Sleep Meditation",
+        "link": "Guided_Meditation_for_Restful_Sleep.mp3",
+        "icon": "moon.zzz.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 34,
-        "title": "Keyboard",
-        "link": "Keyboard 00_00_00-00_00_20.mp3",
-        "icon": "keyboard.fill",
+        "id": 49,
+        "title": "6-Minute Mindfulness",
+        "link": "Mindfulness_Guided_Meditation_(6_Minutes).mp3",
+        "icon": "sparkles",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 35,
-        "title": "Crowd",
-        "link": "Crowd 00_00_00-00_00_20.mp3",
-        "icon": "person.3.fill",
+        "id": 4,
+        "title": "Calm Relaxation Session",
+        "link": "Lie_Back_and_Relax.mp3",
+        "icon": "moon.zzz.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 36,
-        "title": "Shower",
-        "link": "Shower 00_00_00-00_00_20.mp3",
-        "icon": "shower.fill",
+        "id": 50,
+        "title": "20-Minute Mindfulness",
+        "link": "Mindfulness_Guided_Meditation_(20_Minutes).mp3",
+        "icon": "sparkles",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 37,
-        "title": "Clock",
-        "link": "Clock.mp3",
-        "icon": "clock.fill",
+        "id": 10,
+        "title": "15-Minute Sleep Meditation",
+        "link": "15_Minute_Guided_Meditation_for_Sleep.mp3",
+        "icon": "moon.zzz.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 52,
+        "title": "Guided Calm Session",
+        "link": "Guided_Relaxation.mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 16,
+        "title": "10-Minute Anxiety Relief",
+        "link": "10_Minute_Meditation_for_Anxiety_and_Sleep.mp3",
+        "icon": "moon.zzz.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 53,
+        "title": "Metta Meditation",
+        "link": "Metta_Guided_Meditation_With_Relaxing_Music_and_Nature_Sounds_(Bonus_Track).mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 8,
+        "title": "Self-Hypnosis Introduction",
+        "link": "Introduction_to_Self-Hypnosis.mp3",
+        "icon": "moon.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 18,
+        "title": "5-Minute Sleep Meditation",
+        "link": "5_Minute_Meditation_for_Sleep.mp3",
+        "icon": "moon.zzz.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 2,
+        "title": "Deep Sleep Guide",
+        "link": "Introduction_to_Deep_Sleep.mp3",
+        "icon": "moon.fill",
         "isVip": false,
         "type": 0
       }
@@ -350,39 +726,71 @@
       {
         "id": 38,
         "title": "Cracking Wood",
-        "link": "Cracking Wood 00_00_33-00_00_53.mp3",
+        "link": "Cracking_Wood.mp3",
         "icon": "tree.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 36,
+        "title": "Shower",
+        "link": "Shower.mp3",
+        "icon": "shower.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 39,
         "title": "Soap",
-        "link": "Soap 00_00_11-00_00_28.mp3",
+        "link": "Soap.mp3",
         "icon": "bubble.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 37,
+        "title": "Clock",
+        "link": "Clock.mp3",
+        "icon": "clock.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 40,
         "title": "Foam",
-        "link": "Foam 00_00_02-00_00_24.mp3",
+        "link": "Foam.mp3",
         "icon": "bubble.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 34,
+        "title": "Keyboard",
+        "link": "Keyboard.mp3",
+        "icon": "keyboard.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 41,
         "title": "Cardboard",
-        "link": "Cardboard 00_01_18-00_01_40.mp3",
+        "link": "Cardboard.mp3",
         "icon": "archivebox.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 44,
+        "title": "Rain Drops",
+        "link": "Rain_Drops.mp3",
+        "icon": "cloud.drizzle.fill",
         "isVip": false,
         "type": 0
       },
       {
         "id": 42,
         "title": "Typewriter",
-        "link": "Typewriter 00_00_50-00_01_17.mp3",
+        "link": "Typewriter.mp3",
         "icon": "keyboard.fill",
         "isVip": false,
         "type": 0
@@ -390,16 +798,290 @@
       {
         "id": 43,
         "title": "Frying Food",
-        "link": "Frying Food 00_00_02-00_00_26.mp3",
+        "link": "Frying_Food.mp3",
         "icon": "frying.pan.fill",
+        "isVip": false,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Animal Sounds",
+    "base_url": "https://sound.5dev.top/",
+    "sub_path": "Animal Sounds",
+    "color": "#4CAF50",
+    "items": [
+      {
+        "id": 1,
+        "title": "Owl",
+        "link": "OWL.mp3",
+        "icon": "owl.fill",
         "isVip": false,
         "type": 0
       },
       {
-        "id": 44,
-        "title": "Rain Drops",
-        "link": "Rain Drops 00_00_02-00_00_24.mp3",
+        "id": 5,
+        "title": "Birds",
+        "link": "Birds.mp3",
+        "icon": "bird.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 2,
+        "title": "Frogs",
+        "link": "Frogs.mp3",
+        "icon": "tortoise.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 6,
+        "title": "Seagulls",
+        "link": "Seagulls_Sounds.mp3",
+        "icon": "bird.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 3,
+        "title": "Dolphins",
+        "link": "Dolphins.mp3",
+        "icon": "fish.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 7,
+        "title": "Wolf",
+        "link": "Wolf_Howls___Sound_Clips_From_Orange_Free_Sounds.mp3",
+        "icon": "pawprint.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 4,
+        "title": "Crickets",
+        "link": "Crickets.mp3",
+        "icon": "ant.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 8,
+        "title": "Whale",
+        "link": "Whale.mp3",
+        "icon": "fish.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 9,
+        "title": "Peepers",
+        "link": "Spring-peeper-sound.mp3",
+        "icon": "tortoise.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 48,
+        "title": "Grand Canyon Hawk Flight",
+        "link": "A_Hawk_Flies_Above_the_Grand_Canyon.mp3",
+        "icon": "bird.fill",
+        "isVip": false,
+        "type": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Relaxation and Mindfulness",
+    "base_url": "https://sound.5dev.top/",
+    "sub_path": "Relaxation and Mindfulness",
+    "color": "#03A9F4",
+    "items": [
+      {
+        "id": 20,
+        "title": "Stress Relief Meditation",
+        "link": "Peace_Within_(A_Stress_Relief_Meditation_During_Covid-19).mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 28,
+        "title": "Gentle Rain Sounds",
+        "link": "Soft_Rain.mp3",
         "icon": "cloud.drizzle.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 24,
+        "title": "Focused Breathing",
+        "link": "Breathing_Meditation.mp3",
+        "icon": "lungs.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 29,
+        "title": "Emerald Isle Serenity",
+        "link": "Emerald_Isle.mp3",
+        "icon": "leaf.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 27,
+        "title": "Letting Go Meditation",
+        "link": "Emptiness_(Let_Go).mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 21,
+        "title": "Beach Visualization",
+        "link": "Guided_Imagery__At_the_Beach_(With_Music).mp3",
+        "icon": "beach.umbrella.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 34,
+        "title": "Breath Awareness Session",
+        "link": "Breathing_Awareness_(feat._Mata_Mandir_Singh).mp3",
+        "icon": "lungs.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 25,
+        "title": "Life Affirmation",
+        "link": "Affirmation_of_Life.mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 30,
+        "title": "Rain and Sunlight Calm",
+        "link": "Sunlight_Through_the_Rain.mp3",
+        "icon": "cloud.sun.rain.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 26,
+        "title": "Path to Enlightenment",
+        "link": "Enlightenment_.mp3",
+        "icon": "lightbulb.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 35,
+        "title": "Profound Relaxation",
+        "link": "Deep_Relaxation_(feat._AJ_Oliveira).mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 22,
+        "title": "Embrace Love",
+        "link": "Love.mp3",
+        "icon": "heart.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 36,
+        "title": "Anxiety Relief Meditation",
+        "link": "Anxiety_Release_Meditation.mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 19,
+        "title": "Mindful Walking Session",
+        "link": "Walking_Meditation_(With_Music).mp3",
+        "icon": "figure.walk",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 37,
+        "title": "Imagery Relaxation",
+        "link": "Guided_Imagery_Relaxation.mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 23,
+        "title": "Cord Dissolving Session",
+        "link": "Dissolving_the_Cords_Meditation.mp3",
+        "icon": "waveform.path",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 38,
+        "title": "Spirit Healing Session",
+        "link": "Spirit_Guide_Healing.mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 31,
+        "title": "Deliberate Steps Relaxation",
+        "link": "Slowing_It_Down_(Taking_Deliberate_Steps).mp3",
+        "icon": "figure.walk",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 41,
+        "title": "Inner Power Connection",
+        "link": "Connecting_With_Your_Inner_Power.mp3",
+        "icon": "sparkles",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 32,
+        "title": "Shannon Starlight",
+        "link": "Starlight_on_the_Shannon.mp3",
+        "icon": "moon.stars.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 42,
+        "title": "Body Awareness Meditation",
+        "link": "Body_Awareness_Guided_Meditation_With_Relaxing_Music_and_Nature_Sounds_(Bonus_Track).mp3",
+        "icon": "figure.walk",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 33,
+        "title": "Raindrop Serenity",
+        "link": "Falling_Rain_Drops.mp3",
+        "icon": "cloud.drizzle.fill",
+        "isVip": false,
+        "type": 0
+      },
+      {
+        "id": 47,
+        "title": "Body Awareness Walk",
+        "link": "Mindful_Walking_-_Body_Awareness.mp3",
+        "icon": "figure.walk",
         "isVip": false,
         "type": 0
       }
