@@ -7,7 +7,7 @@
         {
           "id": "professional",
           "title": "Professional",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Perform a hard face replacement: use the identity features from Image 1 (eyes, nose, mouth, jaw, smile, glasses) and completely remove the original facial pixels in Image 2, then inject the new face and re-texture it to match Image 2’s exact lighting, shadows, and skin tones while keeping all hair, clothing, and background of Image 2 unchanged; do not return the original Image 2 face under any circumstance.",
           "items": [
             {
               "id": "professional_1",
