@@ -7,7 +7,10 @@
         {
           "id": "professional",
           "title": "Professional",
-          "prompt": "Professional business woman in elegant suit, corporate office setting, confident pose, natural lighting",
+          "prompt": "Image 1 is the source face image. Image 2 is the target image. Perform a deterministic face replacement operation. Extract the facial identity from Image 1 with full preservation of morphological geometry, proportions, fine-grained micro-textures, pore-level skin details, color distribution, expression state, and all identity-defining features.
+Transfer this identity onto the face region in Image 2 without altering global or local image characteristics of the target. The output must inherit 100% of the target image’s visual domain, including its lighting model, exposure, dynamic range, noise profile, color grading, shading, camera perspective, lens characteristics, and rendering style.
+
+Do not beautify, re-render, smooth, redraw, stylize, reinterpret, or modify any aspect of the source or target beyond the strictly necessary pixel-level face replacement. Maintain all contextual, environmental, and non-face elements of the target image exactly as-is. Ensure seamless integration by matching illumination, texture blending boundaries, and spatial alignment while preserving absolute identity fidelity from the source face. Produce a high-accuracy, non-destructive, detail-preserving face swap.",
           "items": [
             {
               "id": "professional_1",
