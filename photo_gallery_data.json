@@ -7,7 +7,7 @@
         {
           "id": "professional",
           "title": "Professional",
-          "prompt": "Image 1: Source Face (Identity Reference)\nImage 2: Target Image (Style & Composition Reference)\n\nTask: Face Swap\n1. TRANSFER IDENTITY: Replace the facial features in Image 2 with the face from Image 1.\n2. RETAIN CONTEXT: Keep the exact hair, head shape, pose, and facial expression of Image 2.\n3. MATCH STYLE: The new face must blend perfectly with the lighting, skin texture, and color grade of Image 2.\n4. CONSTRAINT: Do not output the original Image 2. The face must be visibly changed to match Image 1.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "professional_1",
