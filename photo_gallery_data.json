@@ -7,107 +7,239 @@
         {
           "id": "professional",
           "title": "Professional",
-          "prompt": "Perform a hard face replacement: use the identity features from Image 1 (eyes, nose, mouth, jaw, smile, glasses) and completely remove the original facial pixels in Image 2, then inject the new face and re-texture it to match Image 2’s exact lighting, shadows, and skin tones while keeping all hair, clothing, and background of Image 2 unchanged; do not return the original Image 2 face under any circumstance.",
+          "prompt": "Perform a hard face replacement: use the identity features from Image 1 (eyes, nose, mouth, jaw, smile, glasses) and completely remove the original facial pixels in Image 2, then inject the new face and re-texture it to match Image 2's exact lighting, shadows, and skin tones while keeping all hair, clothing, and background of Image 2 unchanged; do not return the original Image 2 face under any circumstance.",
           "items": [
             {
               "id": "professional_1",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Business_consultant_woman_202512201739 (1).jpeg"
             },
             {
               "id": "professional_2",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Business_consultant_woman_202512201739.jpeg"
             },
             {
               "id": "professional_3",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Business_professional_woman_202512201814 (1).jpeg"
             },
             {
               "id": "professional_4",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Business_professional_woman_202512201814.jpeg"
             },
             {
               "id": "professional_5",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Business_professional_woman_202512211525 (1).jpeg"
             },
             {
               "id": "professional_6",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Business_professional_woman_202512211525 (2).jpeg"
             },
             {
               "id": "professional_7",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Business_professional_woman_202512211525.jpeg"
             },
             {
               "id": "professional_8",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_headshot_of_202512211518.jpeg"
             },
             {
               "id": "professional_9",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_portrait_of_202512201739.jpeg"
             },
             {
               "id": "professional_10",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_portrait_of_202512201740 (1).jpeg"
             },
             {
               "id": "professional_11",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_portrait_of_202512201740.jpeg"
             },
             {
               "id": "professional_12",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_woman_in_202512201811 (1).jpeg"
             },
             {
               "id": "professional_13",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_woman_in_202512201811.jpeg"
             },
             {
               "id": "professional_14",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_woman_in_202512211521 (1).jpeg"
             },
             {
               "id": "professional_15",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Corporate_woman_in_202512211521 (2).jpeg"
             },
             {
               "id": "professional_16",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Executive_woman_portrait_202512211520 (1).jpeg"
             },
             {
               "id": "professional_17",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Executive_woman_portrait_202512211520.jpeg"
             },
             {
               "id": "professional_18",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_business_leader_202512211526.jpeg"
             },
             {
               "id": "professional_19",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_business_leader_202512211527.jpeg"
             },
             {
               "id": "professional_20",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_ceo_in_202512201744 (1).jpeg"
             },
             {
               "id": "professional_21",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_ceo_in_202512201744.jpeg"
             },
             {
               "id": "professional_22",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_consultant_in_202512211518 (1).jpeg"
             },
             {
               "id": "professional_23",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_consultant_in_202512211518.jpeg"
             },
             {
               "id": "professional_24",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_director_in_202512201814.jpeg"
             },
             {
               "id": "professional_25",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_entrepreneur_in_202512201745 (1).jpeg"
+            },
+            {
+              "id": "professional_26",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_entrepreneur_in_202512201745.jpeg"
+            },
+            {
+              "id": "professional_27",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_executive_portrait_202512201813.jpeg"
+            },
+            {
+              "id": "professional_28",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_executive_portrait_202512201814.jpeg"
+            },
+            {
+              "id": "professional_29",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_executive_with_202512201738 (1).jpeg"
+            },
+            {
+              "id": "professional_30",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_executive_with_202512201738.jpeg"
+            },
+            {
+              "id": "professional_31",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_executive_with_202512211524 (1).jpeg"
+            },
+            {
+              "id": "professional_32",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_executive_with_202512211524.jpeg"
+            },
+            {
+              "id": "professional_33",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_lawyer_in_202512201739 (1).jpeg"
+            },
+            {
+              "id": "professional_34",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_lawyer_in_202512201739.jpeg"
+            },
+            {
+              "id": "professional_35",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_manager_conducting_202512201811.jpeg"
+            },
+            {
+              "id": "professional_36",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_manager_conducting_202512201812.jpeg"
+            },
+            {
+              "id": "professional_37",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_manager_portrait_202512211526 (1).jpeg"
+            },
+            {
+              "id": "professional_38",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_manager_portrait_202512211526 (2).jpeg"
+            },
+            {
+              "id": "professional_39",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_manager_portrait_202512211526.jpeg"
+            },
+            {
+              "id": "professional_40",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_professional_in_202512211518.jpeg"
+            },
+            {
+              "id": "professional_41",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_professional_in_202512211519.jpeg"
+            },
+            {
+              "id": "professional_42",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_team_leader_202512211520.jpeg"
+            },
+            {
+              "id": "professional_43",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Female_team_leader_202512211521.jpeg"
+            },
+            {
+              "id": "professional_44",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_businesswoman_in_202512201736 (1).jpeg"
+            },
+            {
+              "id": "professional_45",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_businesswoman_in_202512201736.jpeg"
+            },
+            {
+              "id": "professional_46",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_businesswoman_in_202512201737.jpeg"
+            },
+            {
+              "id": "professional_47",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_businesswoman_trench_2025122115 (1).jpeg"
+            },
+            {
+              "id": "professional_48",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_businesswoman_trench_2025122115.jpeg"
+            },
+            {
+              "id": "professional_49",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_female_portrait_202512211524 (1).jpeg"
+            },
+            {
+              "id": "professional_50",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_female_portrait_202512211524.jpeg"
+            },
+            {
+              "id": "professional_51",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_headshot_of_202512201744.jpeg"
+            },
+            {
+              "id": "professional_52",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_headshot_of_202512201745.jpeg"
+            },
+            {
+              "id": "professional_53",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_headshot_of_202512211526 (1).jpeg"
+            },
+            {
+              "id": "professional_54",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_headshot_of_202512211526.jpeg"
+            },
+            {
+              "id": "professional_55",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_woman_in_202512201812 (1).jpeg"
+            },
+            {
+              "id": "professional_56",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Professional_woman_in_202512201812.jpeg"
+            },
+            {
+              "id": "professional_57",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Young_professional_woman_202512201738 (1).jpeg"
+            },
+            {
+              "id": "professional_58",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/professional/Young_professional_woman_202512201738.jpeg"
             }
           ]
         },
@@ -118,206 +250,195 @@
           "items": [
             {
               "id": "studio_1",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Beauty_portrait_with_202512211538 (1).jpeg"
             },
             {
               "id": "studio_2",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Beauty_portrait_with_202512211538.jpeg"
             },
             {
               "id": "studio_3",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Classic_beauty_portrait_202512211531 (1).jpeg"
             },
             {
               "id": "studio_4",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Classic_beauty_portrait_202512211531.jpeg"
             },
             {
               "id": "studio_5",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Editorial_fashion_portrait_202512211534 (1).jpeg"
             },
             {
               "id": "studio_6",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Editorial_fashion_portrait_202512211534.jpeg"
             },
             {
               "id": "studio_7",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Editorial_portrait_of_202512211541 (1).jpeg"
             },
             {
               "id": "studio_8",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Editorial_portrait_of_202512211541.jpeg"
             },
             {
               "id": "studio_9",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Elegant_female_portrait_202512211537.jpeg"
             },
             {
               "id": "studio_10",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Elegant_woman_in_202512211531 (1).jpeg"
             },
             {
               "id": "studio_11",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Elegant_woman_in_202512211531.jpeg"
             },
             {
               "id": "studio_12",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Elegant_woman_portrait_202512211525.jpeg"
             },
             {
               "id": "studio_13",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Elegant_woman_portrait_202512211528.jpeg"
             },
             {
               "id": "studio_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Fashion_portrait_of_202512211532 (1).jpeg"
             },
             {
               "id": "studio_15",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Fashion_portrait_of_202512211532.jpeg"
             },
             {
               "id": "studio_16",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_fashion_portrait_202512211539 (1).jpeg"
             },
             {
               "id": "studio_17",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_fashion_portrait_202512211539.jpeg"
             },
             {
               "id": "studio_18",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_model_in_202512211528 (1).jpeg"
             },
             {
               "id": "studio_19",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_model_in_202512211528.jpeg"
             },
             {
               "id": "studio_20",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_model_in_202512211535 (1).jpeg"
             },
             {
               "id": "studio_21",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_model_in_202512211535 (2).jpeg"
             },
             {
               "id": "studio_22",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            }
-          ]
-        },
-        {
-          "id": "lumen_glow",
-          "title": "Lumen Glow",
-          "prompt": "Artistic portrait with creative lighting effects, neon glow, dramatic shadows, modern aesthetic",
-          "items": [
-            {
-              "id": "lumen_glow_1",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_model_in_202512211535.jpeg"
             },
             {
-              "id": "lumen_glow_2",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "studio_23",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_portrait_with_202512211531 (1).jpeg"
             },
             {
-              "id": "lumen_glow_3",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "studio_24",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Female_portrait_with_202512211531.jpeg"
             },
             {
-              "id": "lumen_glow_4",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "studio_25",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Glamorous_female_portrait_202512211529 (1).jpeg"
             },
             {
-              "id": "lumen_glow_5",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "studio_26",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Glamorous_female_portrait_202512211529.jpeg"
             },
             {
-              "id": "lumen_glow_6",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "studio_27",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Glamorous_woman_portrait_202512211536 (1).jpeg"
             },
             {
-              "id": "lumen_glow_7",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "studio_28",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Glamorous_woman_portrait_202512211536 (2).jpeg"
             },
             {
-              "id": "lumen_glow_8",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "studio_29",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Glamorous_woman_portrait_202512211536.jpeg"
             },
             {
-              "id": "lumen_glow_9",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "studio_30",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Glamour_portrait_of_202512211533 (1).jpeg"
             },
             {
-              "id": "lumen_glow_10",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "studio_31",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Glamour_portrait_of_202512211533.jpeg"
             },
             {
-              "id": "lumen_glow_11",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "studio_32",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_beauty_portrait_202512211540.jpeg"
             },
             {
-              "id": "lumen_glow_12",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "studio_33",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_beauty_shot_202512211532.jpeg"
             },
             {
-              "id": "lumen_glow_13",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "id": "studio_34",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_fashion_portrait_202512211530 (1).jpeg"
             },
             {
-              "id": "lumen_glow_14",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "studio_35",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_fashion_portrait_202512211530.jpeg"
             },
             {
-              "id": "lumen_glow_15",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "studio_36",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_fashion_portrait_202512211537 (1).jpeg"
             },
             {
-              "id": "lumen_glow_16",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "studio_37",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_fashion_portrait_202512211537.jpeg"
             },
             {
-              "id": "lumen_glow_17",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "studio_38",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_portrait_of_202512211528.jpeg"
             },
             {
-              "id": "lumen_glow_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "id": "studio_39",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_portrait_of_202512211539 (1).jpeg"
             },
             {
-              "id": "lumen_glow_19",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "studio_40",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_portrait_of_202512211539.jpeg"
             },
             {
-              "id": "lumen_glow_20",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "id": "studio_41",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_portrait_with_202512211535 (1).jpeg"
             },
             {
-              "id": "lumen_glow_21",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "studio_42",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_portrait_with_202512211535.jpeg"
             },
             {
-              "id": "lumen_glow_22",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "studio_43",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_portrait_woman_202512211533 (1).jpeg"
             },
             {
-              "id": "lumen_glow_23",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "studio_44",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Studio_portrait_woman_202512211533.jpeg"
             },
             {
-              "id": "lumen_glow_24",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "studio_45",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Woman_in_red_202512211537.jpeg"
             },
             {
-              "id": "lumen_glow_25",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "studio_46",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Woman_in_red_202512211538.jpeg"
             },
             {
-              "id": "lumen_glow_26",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "studio_47",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Woman_in_white_202512211529.jpeg"
             },
             {
-              "id": "lumen_glow_27",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "studio_48",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/studio/Woman_in_white_202512211530.jpeg"
             }
           ]
         },
@@ -328,535 +449,275 @@
           "items": [
             {
               "id": "casual_1",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/6_woman_in_202512192316 (1).jpeg"
             },
             {
               "id": "casual_2",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/6_woman_in_202512192316.jpeg"
             },
             {
               "id": "casual_3",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_beach_portrait_202512192327 (1).jpeg"
             },
             {
               "id": "casual_4",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_beach_portrait_202512192327.jpeg"
             },
             {
               "id": "casual_5",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_home_portrait_202512192318 (1).jpeg"
             },
             {
               "id": "casual_6",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_home_portrait_202512192318 (2).jpeg"
             },
             {
               "id": "casual_7",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_home_portrait_202512192318 (3).jpeg"
             },
             {
               "id": "casual_8",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_home_portrait_202512192318.jpeg"
             },
             {
               "id": "casual_9",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_home_portrait_202512192333 (1).jpeg"
             },
             {
               "id": "casual_10",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_home_portrait_202512192333.jpeg"
             },
             {
               "id": "casual_11",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_outdoor_portrait_202512192315 (1).jpeg"
             },
             {
               "id": "casual_12",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_outdoor_portrait_202512192315.jpeg"
             },
             {
               "id": "casual_13",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_outdoor_portrait_202512192330 (1).jpeg"
             },
             {
               "id": "casual_14",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_outdoor_portrait_202512192330.jpeg"
             },
             {
               "id": "casual_15",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_of_202512192313 (1).jpeg"
             },
             {
               "id": "casual_16",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_of_202512192313.jpeg"
             },
             {
               "id": "casual_17",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_of_202512192328.jpeg"
             },
             {
               "id": "casual_18",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_of_202512192331 (1).jpeg"
             },
             {
               "id": "casual_19",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_of_202512192331 (2).jpeg"
             },
             {
               "id": "casual_20",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_of_202512192331.jpeg"
             },
             {
               "id": "casual_21",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_woman_202512192322 (1).jpeg"
             },
             {
               "id": "casual_22",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_woman_202512192322 (2).jpeg"
             },
             {
               "id": "casual_23",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_woman_202512192322.jpeg"
             },
             {
               "id": "casual_24",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            }
-          ]
-        },
-        {
-          "id": "elegant",
-          "title": "Elegant",
-          "prompt": "Elegant evening wear, sophisticated style, luxury setting, graceful pose",
-          "items": [
-            {
-              "id": "elegant_1",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "elegant_2",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "elegant_3",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "elegant_4",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "elegant_5",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "elegant_6",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "elegant_7",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "elegant_8",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "elegant_9",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "elegant_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "elegant_11",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "elegant_12",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "elegant_13",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "elegant_14",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "elegant_15",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "elegant_16",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "elegant_17",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "elegant_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "elegant_19",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "elegant_20",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "elegant_21",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "elegant_22",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "elegant_23",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "elegant_24",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "elegant_25",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "elegant_26",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            }
-          ]
-        },
-        {
-          "id": "business",
-          "title": "Business",
-          "prompt": "Business professional attire, modern office environment, confident expression, corporate style",
-          "items": [
-            {
-              "id": "business_1",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "business_2",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "business_3",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Casual_portrait_woman_202512192324.jpeg"
             },
             {
-              "id": "business_4",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "casual_25",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_athletic_202512192328 (1).jpeg"
             },
             {
-              "id": "business_5",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "casual_26",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_athletic_202512192328.jpeg"
             },
             {
-              "id": "business_6",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "casual_27",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_cozy_202512192329.jpeg"
             },
             {
-              "id": "business_7",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "casual_28",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_cozy_202512192330.jpeg"
             },
             {
-              "id": "business_8",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "casual_29",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_leather_202512192320 (1).jpeg"
             },
             {
-              "id": "business_9",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "casual_30",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_leather_202512192320 (2).jpeg"
             },
             {
-              "id": "business_10",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "casual_31",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_leather_202512192320.jpeg"
             },
             {
-              "id": "business_11",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "casual_32",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_oversized_202512192315.jpeg"
             },
             {
-              "id": "business_12",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "id": "casual_33",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_oversized_202512192316.jpeg"
             },
             {
-              "id": "business_13",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "casual_34",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_yoga_202512192321 (1).jpeg"
             },
             {
-              "id": "business_14",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "casual_35",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_yoga_202512192321 (2).jpeg"
             },
             {
-              "id": "business_15",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "id": "casual_36",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_in_yoga_202512192321.jpeg"
             },
             {
-              "id": "business_16",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "casual_37",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_casual_202512192332 (1).jpeg"
             },
             {
-              "id": "business_17",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "casual_38",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_casual_202512192332.jpeg"
             },
             {
-              "id": "business_18",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "casual_39",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_flannel_202512192317 (1).jpeg"
             },
             {
-              "id": "business_19",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "casual_40",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_flannel_202512192317.jpeg"
             },
             {
-              "id": "business_20",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "casual_41",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_graphic_202512192331 (1).jpeg"
             },
             {
-              "id": "business_21",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "casual_42",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_graphic_202512192331.jpeg"
             },
             {
-              "id": "business_22",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "casual_43",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_oversized_202512192326.jpeg"
             },
-            {
-              "id": "business_23",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            }
-          ]
-        },
-        {
-          "id": "creative",
-          "title": "Creative",
-          "prompt": "Creative artistic style, unique fashion, expressive pose, artistic background",
-          "items": [
-            {
-              "id": "creative_1",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_2",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_3",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_4",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_5",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_6",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_7",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_8",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_9",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "creative_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "creative_11",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_12",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_13",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_14",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_15",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_16",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_17",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_19",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_20",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_21",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_22",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_23",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_24",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_25",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "creative_26",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_27",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_28",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            }
-          ]
-        },
-        {
-          "id": "outdoor",
-          "title": "Outdoor",
-          "prompt": "Outdoor natural setting, beautiful landscape, natural lighting, relaxed atmosphere",
-          "items": [
             {
-              "id": "outdoor_1",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "id": "casual_44",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Female_wearing_oversized_202512192327.jpeg"
             },
             {
-              "id": "outdoor_2",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "casual_45",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192327 (1).jpeg"
             },
             {
-              "id": "outdoor_3",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "casual_46",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192327.jpeg"
             },
             {
-              "id": "outdoor_4",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "casual_47",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192330 (1).jpeg"
             },
             {
-              "id": "outdoor_5",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "casual_48",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192330.jpeg"
             },
             {
-              "id": "outdoor_6",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "casual_49",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192332 (1).jpeg"
             },
             {
-              "id": "outdoor_7",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "casual_50",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192332.jpeg"
             },
             {
-              "id": "outdoor_8",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "id": "casual_51",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192333 (1).jpeg"
             },
             {
-              "id": "outdoor_9",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "id": "casual_52",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_casual_202512192333.jpeg"
             },
             {
-              "id": "outdoor_10",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "casual_53",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_cozy_202512192306 (1).jpeg"
             },
             {
-              "id": "outdoor_11",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "casual_54",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_cozy_202512192306 (2).jpeg"
             },
             {
-              "id": "outdoor_12",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "casual_55",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_cozy_202512192306.jpeg"
             },
             {
-              "id": "outdoor_13",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "id": "casual_56",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_cozy_202512192307 (1).jpeg"
             },
             {
-              "id": "outdoor_14",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "casual_57",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_cozy_202512192307.jpeg"
             },
             {
-              "id": "outdoor_15",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "casual_58",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_striped_202512192318 (1).jpeg"
             },
             {
-              "id": "outdoor_16",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "casual_59",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_striped_202512192318.jpeg"
             },
             {
-              "id": "outdoor_17",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "casual_60",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_summer_202512192326 (1).jpeg"
             },
             {
-              "id": "outdoor_18",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "casual_61",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_in_summer_202512192326.jpeg"
             },
             {
-              "id": "outdoor_19",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "casual_62",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_wearing_casual_202512192320 (1).jpeg"
             },
             {
-              "id": "outdoor_20",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "casual_63",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_wearing_casual_202512192320 (2).jpeg"
             },
             {
-              "id": "outdoor_21",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "casual_64",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_wearing_casual_202512192320.jpeg"
             },
             {
-              "id": "outdoor_22",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "casual_65",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_wearing_denim_202512192329 (1).jpeg"
             },
             {
-              "id": "outdoor_23",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "casual_66",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_wearing_denim_202512192329.jpeg"
             },
             {
-              "id": "outdoor_24",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "casual_67",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_wearing_white_202512192313 (1).jpeg"
             },
             {
-              "id": "outdoor_25",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "id": "casual_68",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/female/casual/Woman_wearing_white_202512192313.jpeg"
             }
           ]
         }
@@ -873,123 +734,127 @@
           "items": [
             {
               "id": "business_1",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Business_consultant_male_202512211722 (1).jpeg"
             },
             {
               "id": "business_2",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Business_consultant_male_202512211722.jpeg"
             },
             {
               "id": "business_3",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Business_leader_male_202512211724.jpeg"
             },
             {
               "id": "business_4",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Business_portrait_of_202512211558 (1).jpeg"
             },
             {
               "id": "business_5",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Business_portrait_of_202512211558.jpeg"
             },
             {
               "id": "business_6",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Businessman_in_elegant_202512211726.jpeg"
             },
             {
               "id": "business_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Businessman_in_formal_202512211721.jpeg"
             },
             {
               "id": "business_8",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Businessman_with_laptop_202512211723.jpeg"
             },
             {
               "id": "business_9",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Corporate_businessman_formal_202512211725.jpeg"
             },
             {
               "id": "business_10",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Corporate_headshot_of_202512211720 (1).jpeg"
             },
             {
               "id": "business_11",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Corporate_headshot_of_202512211720.jpeg"
             },
             {
               "id": "business_12",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Corporate_professional_man_202512211727 (1).jpeg"
             },
             {
               "id": "business_13",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Corporate_professional_man_202512211727.jpeg"
             },
             {
               "id": "business_14",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Executive_man_portrait_202512211724.jpeg"
             },
             {
               "id": "business_15",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_ceo_portrait_202512211722 (1).jpeg"
             },
             {
               "id": "business_16",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_ceo_portrait_202512211722.jpeg"
             },
             {
               "id": "business_17",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_ceo_portrait_202512211726.jpeg"
             },
             {
               "id": "business_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_entrepreneur_in_202512211720 (1).jpeg"
             },
             {
               "id": "business_19",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_entrepreneur_in_202512211720.jpeg"
             },
             {
               "id": "business_20",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_entrepreneur_in_202512211725.jpeg"
             },
             {
               "id": "business_21",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_executive_headshot_202512211726.jpeg"
             },
             {
               "id": "business_22",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_executive_in_202512211723.jpeg"
             },
             {
               "id": "business_23",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_executive_in_202512211728 (1).jpeg"
             },
             {
               "id": "business_24",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_executive_in_202512211728.jpeg"
             },
             {
               "id": "business_25",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_executive_with_202512211556 (1).jpeg"
             },
             {
               "id": "business_26",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_executive_with_202512211556.jpeg"
             },
             {
               "id": "business_27",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Male_professional_in_202512211724.jpeg"
             },
             {
               "id": "business_28",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Professional_businessman_in_202512211553.jpeg"
             },
             {
               "id": "business_29",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Professional_man_in_202512211722 (1).jpeg"
             },
             {
               "id": "business_30",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Professional_man_in_202512211722.jpeg"
+            },
+            {
+              "id": "business_31",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/business/Young_professional_man_202512211558.jpeg"
             }
           ]
         },
@@ -1000,115 +865,207 @@
           "items": [
             {
               "id": "casual_1",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_beach_portrait_202512211734.jpeg"
             },
             {
               "id": "casual_2",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_home_portrait_202512211737.jpeg"
             },
             {
               "id": "casual_3",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_home_portrait_202512211818 (1).jpeg"
             },
             {
               "id": "casual_4",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_home_portrait_202512211818.jpeg"
             },
             {
               "id": "casual_5",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_outdoor_portrait_202512211733 (1).jpeg"
             },
             {
               "id": "casual_6",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_outdoor_portrait_202512211733 (2).jpeg"
             },
             {
               "id": "casual_7",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_outdoor_portrait_202512211733.jpeg"
             },
             {
               "id": "casual_8",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_outdoor_portrait_202512211736 (1).jpeg"
             },
             {
               "id": "casual_9",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_outdoor_portrait_202512211736.jpeg"
             },
             {
               "id": "casual_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_outdoor_portrait_202512211740.jpeg"
             },
             {
               "id": "casual_11",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_outdoor_portrait_202512211741.jpeg"
             },
             {
               "id": "casual_12",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_portrait_of_202512211730.jpeg"
             },
             {
               "id": "casual_13",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_portrait_of_202512211735 (1).jpeg"
             },
             {
               "id": "casual_14",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_portrait_of_202512211735.jpeg"
             },
             {
               "id": "casual_15",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_portrait_of_202512211739 (1).jpeg"
             },
             {
               "id": "casual_16",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_portrait_of_202512211739.jpeg"
             },
             {
               "id": "casual_17",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_portrait_of_202512211742 (1).jpeg"
             },
             {
               "id": "casual_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Casual_portrait_of_202512211742.jpeg"
             },
             {
               "id": "casual_19",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_cardigan_202512211738 (1).jpeg"
             },
             {
               "id": "casual_20",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_cardigan_202512211738.jpeg"
             },
             {
               "id": "casual_21",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_casual_202512211734.jpeg"
             },
             {
               "id": "casual_22",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_casual_202512211740 (1).jpeg"
             },
             {
               "id": "casual_23",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_casual_202512211740.jpeg"
             },
             {
               "id": "casual_24",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_casual_202512211742 (1).jpeg"
             },
             {
               "id": "casual_25",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_casual_202512211742.jpeg"
             },
             {
               "id": "casual_26",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_casual_202512211743.jpeg"
             },
             {
               "id": "casual_27",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_casual_202512211818.jpeg"
             },
             {
               "id": "casual_28",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_denim_202512211736 (1).jpeg"
+            },
+            {
+              "id": "casual_29",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_denim_202512211736.jpeg"
+            },
+            {
+              "id": "casual_30",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_graphic_202512211735.jpeg"
+            },
+            {
+              "id": "casual_31",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_henley_202512211730 (1).jpeg"
+            },
+            {
+              "id": "casual_32",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_henley_202512211730.jpeg"
+            },
+            {
+              "id": "casual_33",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_hoodie_202512211731.jpeg"
+            },
+            {
+              "id": "casual_34",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_hoodie_202512211732.jpeg"
+            },
+            {
+              "id": "casual_35",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Male_wearing_vintage_202512211737.jpeg"
+            },
+            {
+              "id": "casual_36",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211729 (1).jpeg"
+            },
+            {
+              "id": "casual_37",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211729.jpeg"
+            },
+            {
+              "id": "casual_38",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211734.jpeg"
+            },
+            {
+              "id": "casual_39",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211736 (1).jpeg"
+            },
+            {
+              "id": "casual_40",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211736.jpeg"
+            },
+            {
+              "id": "casual_41",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211737.jpeg"
+            },
+            {
+              "id": "casual_42",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211738 (1).jpeg"
+            },
+            {
+              "id": "casual_43",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211738.jpeg"
+            },
+            {
+              "id": "casual_44",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211739.jpeg"
+            },
+            {
+              "id": "casual_45",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211740.jpeg"
+            },
+            {
+              "id": "casual_46",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211743 (1).jpeg"
+            },
+            {
+              "id": "casual_47",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_casual_202512211743.jpeg"
+            },
+            {
+              "id": "casual_48",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_leather_202512211733 (1).jpeg"
+            },
+            {
+              "id": "casual_49",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_leather_202512211733.jpeg"
+            },
+            {
+              "id": "casual_50",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_white_202512211731 (1).jpeg"
+            },
+            {
+              "id": "casual_51",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/casual/Man_in_white_202512211731.jpeg"
             }
           ]
         },
@@ -1119,698 +1076,183 @@
           "items": [
             {
               "id": "sports_1",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211853 (1).jpeg"
             },
             {
               "id": "sports_2",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211853.jpeg"
             },
             {
               "id": "sports_3",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211856 (1).jpeg"
             },
             {
               "id": "sports_4",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211856.jpeg"
             },
             {
               "id": "sports_5",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211859 (1).jpeg"
             },
             {
               "id": "sports_6",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211859.jpeg"
             },
             {
               "id": "sports_7",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211902.jpeg"
             },
             {
               "id": "sports_8",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211905 (1).jpeg"
             },
             {
               "id": "sports_9",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211905.jpeg"
             },
             {
               "id": "sports_10",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211907 (1).jpeg"
             },
             {
               "id": "sports_11",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211907.jpeg"
             },
             {
               "id": "sports_12",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211908 (1).jpeg"
             },
             {
               "id": "sports_13",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_male_in_202512211908.jpeg"
             },
             {
               "id": "sports_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_man_in_202512211848.jpeg"
             },
             {
               "id": "sports_15",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_man_in_202512211854.jpeg"
             },
             {
               "id": "sports_16",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_man_in_202512211901.jpeg"
             },
             {
               "id": "sports_17",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_man_in_202512211903.jpeg"
             },
             {
               "id": "sports_18",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_man_in_202512211904.jpeg"
             },
             {
               "id": "sports_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Athletic_man_in_202512211906.jpeg"
             },
             {
               "id": "sports_20",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Baseball_player_man_202512211858.jpeg"
             },
             {
               "id": "sports_21",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Boxer_man_boxing_202512211852.jpeg"
             },
             {
               "id": "sports_22",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Close_up_shot_202512211856.jpeg"
             },
             {
               "id": "sports_23",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Font_view_of_202512211904.jpeg"
             },
             {
               "id": "sports_24",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Front_view_of_202512211900.jpeg"
             },
             {
               "id": "sports_25",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_athlete_in_202512211855 (1).jpeg"
             },
             {
               "id": "sports_26",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_athlete_in_202512211855.jpeg"
             },
             {
               "id": "sports_27",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_athlete_in_202512211907 (1).jpeg"
             },
             {
               "id": "sports_28",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_athlete_in_202512211907.jpeg"
             },
             {
               "id": "sports_29",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            }
-          ]
-        },
-        {
-          "id": "formal",
-          "title": "Formal",
-          "prompt": "Formal evening wear, tuxedo or suit, elegant setting, sophisticated style",
-          "items": [
-            {
-              "id": "formal_1",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "formal_2",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "formal_3",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "formal_4",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "formal_5",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "formal_6",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "formal_7",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "formal_8",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "formal_9",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "formal_10",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "formal_11",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "formal_12",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "formal_13",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "formal_14",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "formal_15",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "formal_16",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "formal_17",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "formal_18",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "formal_19",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "formal_20",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "formal_21",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "formal_22",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "formal_23",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "formal_24",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "formal_25",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "formal_26",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "formal_27",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            }
-          ]
-        },
-        {
-          "id": "creative",
-          "title": "Creative",
-          "prompt": "Creative fashion style, artistic expression, unique outfit, modern aesthetic",
-          "items": [
-            {
-              "id": "creative_1",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_2",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "creative_3",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_4",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "creative_5",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_6",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_8",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_9",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_10",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_11",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_12",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_13",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_14",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_15",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_16",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "creative_17",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_19",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_20",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_21",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_22",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_23",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_24",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_25",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_26",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            }
-          ]
-        },
-        {
-          "id": "outdoor",
-          "title": "Outdoor",
-          "prompt": "Outdoor adventure style, natural environment, rugged clothing, landscape background",
-          "items": [
-            {
-              "id": "outdoor_1",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "outdoor_2",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_3",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_4",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "outdoor_5",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "outdoor_6",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_7",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "outdoor_8",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "outdoor_9",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "outdoor_10",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_11",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_12",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_13",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "outdoor_14",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_15",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "outdoor_16",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_17",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_20",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_21",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "outdoor_22",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "outdoor_23",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "outdoor_24",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_25",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_26",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "outdoor_27",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_28",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_29",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_30",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            }
-          ]
-        },
-        {
-          "id": "studio",
-          "title": "Studio",
-          "prompt": "Studio portrait with professional lighting, clean background, fashion photography style",
-          "items": [
-            {
-              "id": "studio_1",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "studio_2",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "studio_3",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "studio_4",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "studio_5",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "studio_6",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "studio_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "studio_8",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "studio_9",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "studio_10",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "studio_11",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "studio_12",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "studio_13",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "studio_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "studio_15",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "studio_16",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "studio_17",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "studio_18",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "studio_19",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "studio_20",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "studio_21",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "studio_22",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "studio_23",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "studio_24",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "studio_25",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            }
-          ]
-        },
-        {
-          "id": "urban",
-          "title": "Urban",
-          "prompt": "Urban street style, city background, modern fashion, contemporary look",
-          "items": [
-            {
-              "id": "urban_1",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "urban_2",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "urban_3",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "urban_4",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "urban_5",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "urban_6",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "urban_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "urban_8",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "urban_9",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "urban_10",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "urban_11",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "urban_12",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_gymnast_gymnasium_202512211906.jpeg"
             },
             {
-              "id": "urban_13",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "sports_30",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_hockey_player_202512211901 (1).jpeg"
             },
             {
-              "id": "urban_14",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "sports_31",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_hockey_player_202512211901.jpeg"
             },
             {
-              "id": "urban_15",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "sports_32",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_runner_in_202512211854 (1).jpeg"
             },
             {
-              "id": "urban_16",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
+              "id": "sports_33",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_runner_in_202512211854.jpeg"
             },
             {
-              "id": "urban_17",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "sports_34",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_skier_no_202512211901 (1).jpeg"
             },
             {
-              "id": "urban_18",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "sports_35",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_skier_no_202512211901.jpeg"
             },
             {
-              "id": "urban_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "sports_36",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_swimmer_in_202512211851.jpeg"
             },
             {
-              "id": "urban_20",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "sports_37",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_track_athlete_202512211906 (1).jpeg"
             },
             {
-              "id": "urban_21",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
+              "id": "sports_38",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_track_athlete_202512211906.jpeg"
             },
             {
-              "id": "urban_22",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "id": "sports_39",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Male_triathlete_transition_202512211858.jpeg"
             },
             {
-              "id": "urban_23",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
+              "id": "sports_40",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Middle_close_up_202512211903.jpeg"
             },
             {
-              "id": "urban_24",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "sports_41",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Muscular_man_in_202512211848.jpeg"
             },
             {
-              "id": "urban_25",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
+              "id": "sports_42",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Muscular_man_in_202512211849.jpeg"
             },
             {
-              "id": "urban_26",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
+              "id": "sports_43",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Soccer_player_male_202512211849.jpeg"
             },
             {
-              "id": "urban_27",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
+              "id": "sports_44",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Surfer_man_beach_202512211855.jpeg"
             },
             {
-              "id": "urban_28",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
+              "id": "sports_45",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/male/sports/Tennis_player_man_202512211851.jpeg"
             }
           ]
         }
@@ -1824,749 +1266,19 @@
           "id": "playful",
           "title": "Playful",
           "prompt": "Playful young girl, colorful outfit, fun pose, cheerful expression, bright setting",
-          "items": [
-            {
-              "id": "playful_1",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "playful_2",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "playful_3",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "playful_4",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "playful_5",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "playful_6",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "playful_7",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "playful_8",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "playful_9",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "playful_10",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "playful_11",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "playful_12",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "playful_13",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "playful_14",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "playful_15",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "playful_16",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "playful_17",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "playful_18",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "playful_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "playful_20",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            }
-          ]
+          "items": []
         },
         {
           "id": "school",
           "title": "School",
           "prompt": "School uniform style, educational setting, friendly smile, youthful appearance",
-          "items": [
-            {
-              "id": "school_1",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "school_2",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "school_3",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "school_4",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "school_5",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "school_6",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "school_7",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "school_8",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "school_9",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "school_10",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "school_11",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "school_12",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "school_13",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "school_14",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "school_15",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "school_16",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "school_17",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "school_18",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "school_19",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "school_20",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "school_21",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "school_22",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            }
-          ]
+          "items": []
         },
         {
           "id": "party",
           "title": "Party",
           "prompt": "Party dress, festive setting, joyful expression, celebration atmosphere",
-          "items": [
-            {
-              "id": "party_1",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "party_2",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "party_3",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "party_4",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "party_5",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "party_6",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "party_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "party_8",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "party_9",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "party_10",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "party_11",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "party_12",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "party_13",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "party_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "party_15",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "party_16",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "party_17",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "party_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "party_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "party_20",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "party_21",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            }
-          ]
-        },
-        {
-          "id": "princess",
-          "title": "Princess",
-          "prompt": "Princess style dress, fairy tale setting, elegant pose, magical atmosphere",
-          "items": [
-            {
-              "id": "princess_1",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "princess_2",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "princess_3",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "princess_4",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "princess_5",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "princess_6",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "princess_7",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "princess_8",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "princess_9",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "princess_10",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "princess_11",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "princess_12",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "princess_13",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "princess_14",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "princess_15",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "princess_16",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "princess_17",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "princess_18",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "princess_19",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "princess_20",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "princess_21",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "princess_22",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "princess_23",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            }
-          ]
-        },
-        {
-          "id": "casual",
-          "title": "Casual",
-          "prompt": "Casual everyday wear, comfortable clothing, natural pose, relaxed setting",
-          "items": [
-            {
-              "id": "casual_1",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "casual_2",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "casual_3",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "casual_4",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "casual_5",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "casual_6",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "casual_7",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "casual_8",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "casual_9",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "casual_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_11",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "casual_12",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_13",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "casual_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "casual_15",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "casual_16",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "casual_17",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_18",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "casual_19",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "casual_20",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            }
-          ]
-        },
-        {
-          "id": "sports",
-          "title": "Sports",
-          "prompt": "Sports outfit, active pose, athletic setting, energetic expression",
-          "items": [
-            {
-              "id": "sports_1",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "sports_2",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "sports_3",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_4",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_5",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "sports_6",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "sports_7",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "sports_8",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "sports_9",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "sports_10",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "sports_11",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "sports_12",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_13",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "sports_14",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "sports_15",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "sports_16",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "sports_17",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "sports_18",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_19",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "sports_20",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "sports_21",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "sports_22",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "sports_23",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "sports_24",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            }
-          ]
-        },
-        {
-          "id": "creative",
-          "title": "Creative",
-          "prompt": "Creative artistic style, colorful outfit, expressive pose, imaginative setting",
-          "items": [
-            {
-              "id": "creative_1",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_2",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_3",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_4",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_5",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_6",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_8",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_9",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "creative_11",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_12",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_13",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_14",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_15",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_16",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "creative_17",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_18",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_19",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_20",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_21",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "creative_22",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            }
-          ]
-        },
-        {
-          "id": "outdoor",
-          "title": "Outdoor",
-          "prompt": "Outdoor nature setting, casual wear, natural lighting, playful atmosphere",
-          "items": [
-            {
-              "id": "outdoor_1",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_2",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_3",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_4",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_5",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_6",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "outdoor_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_8",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_9",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_10",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_11",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_12",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_13",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "outdoor_15",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_16",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_17",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_18",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_19",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_20",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_21",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            }
-          ]
+          "items": []
         }
       ]
     },
@@ -2578,937 +1290,19 @@
           "id": "sports",
           "title": "Sports",
           "prompt": "Young boy in sports uniform, athletic pose, sports field setting, energetic vibe",
-          "items": [
-            {
-              "id": "sports_1",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "sports_2",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "sports_3",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "sports_4",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_5",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "sports_6",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "sports_7",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "sports_8",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_9",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "sports_10",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "sports_11",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "sports_12",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "sports_13",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "sports_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "sports_15",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "sports_16",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "sports_17",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "sports_18",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "sports_19",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "sports_20",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "sports_21",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "sports_22",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_23",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "sports_24",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "sports_25",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "sports_26",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "sports_27",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "sports_28",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            }
-          ]
+          "items": []
         },
         {
           "id": "adventure",
           "title": "Adventure",
           "prompt": "Adventure outfit, explorer style, outdoor setting, adventurous expression",
-          "items": [
-            {
-              "id": "adventure_1",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "adventure_2",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "adventure_3",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "adventure_4",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "adventure_5",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "adventure_6",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "adventure_7",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "adventure_8",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "adventure_9",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "adventure_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "adventure_11",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "adventure_12",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "adventure_13",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "adventure_14",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "adventure_15",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "adventure_16",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "adventure_17",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "adventure_18",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "adventure_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "adventure_20",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "adventure_21",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "adventure_22",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "adventure_23",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "adventure_24",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "adventure_25",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "adventure_26",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "adventure_27",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            }
-          ]
+          "items": []
         },
         {
           "id": "school",
           "title": "School",
           "prompt": "School uniform, educational environment, friendly smile, student style",
-          "items": [
-            {
-              "id": "school_1",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "school_2",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "school_3",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "school_4",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "school_5",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "school_6",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "school_7",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "school_8",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "school_9",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "school_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "school_11",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "school_12",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "school_13",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "school_14",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "school_15",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "school_16",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "school_17",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "school_18",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "school_19",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "school_20",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "school_21",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "school_22",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "school_23",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "school_24",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "school_25",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "school_26",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            }
-          ]
-        },
-        {
-          "id": "casual",
-          "title": "Casual",
-          "prompt": "Casual everyday clothing, comfortable style, relaxed pose, natural setting",
-          "items": [
-            {
-              "id": "casual_1",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "casual_2",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "casual_3",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "casual_4",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "casual_5",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_6",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "casual_7",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "casual_8",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "casual_9",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_10",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "casual_11",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "casual_12",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "casual_13",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "casual_14",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_15",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_16",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_17",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "casual_18",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "casual_19",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "casual_20",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "casual_21",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "casual_22",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "casual_23",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "casual_24",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "casual_25",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "casual_26",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "casual_27",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "casual_28",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "casual_29",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            }
-          ]
-        },
-        {
-          "id": "superhero",
-          "title": "Superhero",
-          "prompt": "Superhero costume, heroic pose, action setting, powerful expression",
-          "items": [
-            {
-              "id": "superhero_1",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "superhero_2",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "superhero_3",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "superhero_4",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "superhero_5",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "superhero_6",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "superhero_7",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "superhero_8",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "superhero_9",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "superhero_10",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "superhero_11",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "superhero_12",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "superhero_13",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "superhero_14",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "superhero_15",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "superhero_16",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "superhero_17",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "superhero_18",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "superhero_19",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "superhero_20",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "superhero_21",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "superhero_22",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "superhero_23",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "superhero_24",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "superhero_25",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "superhero_26",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "superhero_27",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "superhero_28",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "superhero_29",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "superhero_30",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            }
-          ]
-        },
-        {
-          "id": "creative",
-          "title": "Creative",
-          "prompt": "Creative artistic outfit, expressive style, colorful setting, imaginative pose",
-          "items": [
-            {
-              "id": "creative_1",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "creative_2",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_3",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "creative_4",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_5",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_6",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_7",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_8",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "creative_9",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_10",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_11",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_12",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_13",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_14",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "creative_15",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_16",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_17",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "creative_18",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "creative_20",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "creative_21",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "creative_22",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "creative_23",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "creative_24",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "creative_25",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            }
-          ]
-        },
-        {
-          "id": "outdoor",
-          "title": "Outdoor",
-          "prompt": "Outdoor nature setting, casual wear, natural environment, playful atmosphere",
-          "items": [
-            {
-              "id": "outdoor_1",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_2",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_3",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_4",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_5",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_6",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "outdoor_7",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "outdoor_8",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "outdoor_9",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "outdoor_10",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_11",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_12",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "outdoor_13",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "outdoor_14",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "outdoor_15",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "outdoor_16",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_17",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_18",
-              "image_link": "https://clxteam.github.io/pixshot/img6.png"
-            },
-            {
-              "id": "outdoor_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_20",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "outdoor_21",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_22",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "outdoor_23",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "outdoor_24",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "outdoor_25",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_26",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "outdoor_27",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "outdoor_28",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            }
-          ]
-        },
-        {
-          "id": "party",
-          "title": "Party",
-          "prompt": "Party outfit, festive setting, joyful expression, celebration atmosphere",
-          "items": [
-            {
-              "id": "party_1",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "party_2",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "party_3",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "party_4",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "party_5",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "party_6",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "party_7",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "party_8",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "party_9",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "party_10",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "party_11",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "party_12",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "party_13",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "party_14",
-              "image_link": "https://clxteam.github.io/pixshot/img10.png"
-            },
-            {
-              "id": "party_15",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "party_16",
-              "image_link": "https://clxteam.github.io/pixshot/img2.png"
-            },
-            {
-              "id": "party_17",
-              "image_link": "https://clxteam.github.io/pixshot/img7.png"
-            },
-            {
-              "id": "party_18",
-              "image_link": "https://clxteam.github.io/pixshot/img3.png"
-            },
-            {
-              "id": "party_19",
-              "image_link": "https://clxteam.github.io/pixshot/img4.png"
-            },
-            {
-              "id": "party_20",
-              "image_link": "https://clxteam.github.io/pixshot/img8.png"
-            },
-            {
-              "id": "party_21",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "party_22",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "party_23",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "party_24",
-              "image_link": "https://clxteam.github.io/pixshot/img9.png"
-            },
-            {
-              "id": "party_25",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            },
-            {
-              "id": "party_26",
-              "image_link": "https://clxteam.github.io/pixshot/img5.png"
-            },
-            {
-              "id": "party_27",
-              "image_link": "https://clxteam.github.io/pixshot/img1.png"
-            }
-          ]
+          "items": []
         }
       ]
     }
