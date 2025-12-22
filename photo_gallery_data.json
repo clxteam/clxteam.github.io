@@ -1266,19 +1266,166 @@
           "id": "playful",
           "title": "Playful",
           "prompt": "Playful young girl, colorful outfit, fun pose, cheerful expression, bright setting",
-          "items": []
+          "items": [
+            {
+              "id": "playful_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Cute_girl_with_202512221107 (1).jpeg"
+            },
+            {
+              "id": "playful_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Cute_girl_with_202512221107.jpeg"
+            },
+            {
+              "id": "playful_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Girl_in_tutu_202512221110 (1).jpeg"
+            },
+            {
+              "id": "playful_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Girl_in_tutu_202512221110.jpeg"
+            },
+            {
+              "id": "playful_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Girl_in_tutu_202512221111.jpeg"
+            },
+            {
+              "id": "playful_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Playful_portrait_of_202512221107 (1).jpeg"
+            },
+            {
+              "id": "playful_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Playful_portrait_of_202512221107 (2).jpeg"
+            },
+            {
+              "id": "playful_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Playful_portrait_of_202512221107.jpeg"
+            },
+            {
+              "id": "playful_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Young_girl_in_202512221105 (1).jpeg"
+            },
+            {
+              "id": "playful_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Young_girl_in_202512221105 (2).jpeg"
+            },
+            {
+              "id": "playful_11",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Young_girl_in_202512221105.jpeg"
+            },
+            {
+              "id": "playful_12",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/playful/Young_girl_with_202512221110.jpeg"
+            }
+          ]
         },
         {
           "id": "school",
           "title": "School",
           "prompt": "School uniform style, educational setting, friendly smile, youthful appearance",
-          "items": []
+          "items": [
+            {
+              "id": "school_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Girl_student_with_202512221113 (1).jpeg"
+            },
+            {
+              "id": "school_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Girl_student_with_202512221113 (2).jpeg"
+            },
+            {
+              "id": "school_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Girl_student_with_202512221113.jpeg"
+            },
+            {
+              "id": "school_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/School_portrait_of_202512221117 (1).jpeg"
+            },
+            {
+              "id": "school_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/School_portrait_of_202512221117.jpeg"
+            },
+            {
+              "id": "school_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Young_girl_in_202512221113 (1).jpeg"
+            },
+            {
+              "id": "school_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Young_girl_in_202512221113.jpeg"
+            },
+            {
+              "id": "school_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Young_girl_with_202512221117 (1).jpeg"
+            },
+            {
+              "id": "school_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Young_girl_with_202512221117 (2).jpeg"
+            },
+            {
+              "id": "school_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/school/Young_girl_with_202512221117.jpeg"
+            }
+          ]
         },
         {
           "id": "party",
           "title": "Party",
           "prompt": "Party dress, festive setting, joyful expression, celebration atmosphere",
-          "items": []
+          "items": [
+            {
+              "id": "party_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Cute_girl_wearing_202512221101 (1).jpeg"
+            },
+            {
+              "id": "party_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Cute_girl_wearing_202512221101.jpeg"
+            },
+            {
+              "id": "party_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Girl_in_princess_202512221103.jpeg"
+            },
+            {
+              "id": "party_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Girl_in_princess_202512221104 (1).jpeg"
+            },
+            {
+              "id": "party_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Girl_in_princess_202512221104 (2).jpeg"
+            },
+            {
+              "id": "party_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Girl_in_princess_202512221104.jpeg"
+            },
+            {
+              "id": "party_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Party_little_cute_202512221105 (1).jpeg"
+            },
+            {
+              "id": "party_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Party_little_cute_202512221105 (2).jpeg"
+            },
+            {
+              "id": "party_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Party_little_cute_202512221105.jpeg"
+            },
+            {
+              "id": "party_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Young_girl_in_202512221101 (1).jpeg"
+            },
+            {
+              "id": "party_11",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Young_girl_in_202512221101 (2).jpeg"
+            },
+            {
+              "id": "party_12",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Young_girl_in_202512221101.jpeg"
+            },
+            {
+              "id": "party_13",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Young_girl_with_202512221102 (1).jpeg"
+            },
+            {
+              "id": "party_14",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/girl/party/Young_girl_with_202512221102.jpeg"
+            }
+          ]
         }
       ]
     },
@@ -1290,19 +1437,349 @@
           "id": "sports",
           "title": "Sports",
           "prompt": "Young boy in sports uniform, athletic pose, sports field setting, energetic vibe",
-          "items": []
+          "items": [
+            {
+              "id": "sports_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Boy_athlete_in_202512221054 (1).jpeg"
+            },
+            {
+              "id": "sports_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Boy_athlete_in_202512221054.jpeg"
+            },
+            {
+              "id": "sports_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Boy_in_tennis_202512221058 (1).jpeg"
+            },
+            {
+              "id": "sports_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Boy_in_tennis_202512221058.jpeg"
+            },
+            {
+              "id": "sports_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Front_view_of_202512221054.jpeg"
+            },
+            {
+              "id": "sports_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Sports_portrait_of_202512221055 (1).jpeg"
+            },
+            {
+              "id": "sports_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Sports_portrait_of_202512221055.jpeg"
+            },
+            {
+              "id": "sports_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Young_boy_in_202512221054.jpeg"
+            },
+            {
+              "id": "sports_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Young_boy_in_202512221057.jpeg"
+            },
+            {
+              "id": "sports_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/sports/Young_boy_in_202512221058.jpeg"
+            }
+          ]
         },
         {
           "id": "adventure",
           "title": "Adventure",
           "prompt": "Adventure outfit, explorer style, outdoor setting, adventurous expression",
-          "items": []
+          "items": [
+            {
+              "id": "adventure_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191653 (1).jpeg"
+            },
+            {
+              "id": "adventure_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191653 (2).jpeg"
+            },
+            {
+              "id": "adventure_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191653.jpeg"
+            },
+            {
+              "id": "adventure_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191657 (1).jpeg"
+            },
+            {
+              "id": "adventure_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191657.jpeg"
+            },
+            {
+              "id": "adventure_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191659 (1).jpeg"
+            },
+            {
+              "id": "adventure_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191659.jpeg"
+            },
+            {
+              "id": "adventure_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191703 (1).jpeg"
+            },
+            {
+              "id": "adventure_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_boy_portrait_202512191703.jpeg"
+            },
+            {
+              "id": "adventure_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/adventure/Adventure_portrait_of_202512191643 (1).jpeg"
+            }
+          ]
         },
         {
           "id": "school",
           "title": "School",
           "prompt": "School uniform, educational environment, friendly smile, student style",
-          "items": []
+          "items": [
+            {
+              "id": "school_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/1_young_boy_202512221050 (1).jpeg"
+            },
+            {
+              "id": "school_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/1_young_boy_202512221050.jpeg"
+            },
+            {
+              "id": "school_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/Boy_in_school_202512221053 (1).jpeg"
+            },
+            {
+              "id": "school_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/Boy_in_school_202512221053.jpeg"
+            },
+            {
+              "id": "school_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/Boy_student_at_202512221050 (1).jpeg"
+            },
+            {
+              "id": "school_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/Boy_student_at_202512221050.jpeg"
+            },
+            {
+              "id": "school_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/School_portrait_of_202512221052.jpeg"
+            },
+            {
+              "id": "school_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/Young_boy_with_202512221052 (1).jpeg"
+            },
+            {
+              "id": "school_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/boy/school/Young_boy_with_202512221052.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "sections": [
+        {
+          "id": "santa",
+          "title": "Santa",
+          "prompt": "Christmas Santa portraits, festive holiday setting, joyful celebration atmosphere",
+          "items": [
+            {
+              "id": "santa_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/A_pretty_young_202512221432 (1).jpeg"
+            },
+            {
+              "id": "santa_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/A_pretty_young_202512221432.jpeg"
+            },
+            {
+              "id": "santa_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/A_young_man_202512221429.jpeg"
+            },
+            {
+              "id": "santa_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/A_young_man_202512221430 (1).jpeg"
+            },
+            {
+              "id": "santa_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/A_young_man_202512221430.jpeg"
+            },
+            {
+              "id": "santa_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/Closeup_selfie_with_202512221447.jpeg"
+            },
+            {
+              "id": "santa_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/Family_group_photo_202512221510 (1).jpeg"
+            },
+            {
+              "id": "santa_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/Family_group_photo_202512221510.jpeg"
+            },
+            {
+              "id": "santa_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/Fun_selfie_with_202512221439 (1).jpeg"
+            },
+            {
+              "id": "santa_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Santa/Fun_selfie_with_202512221439.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "pinetree",
+          "title": "Pine Tree & Gift Box",
+          "prompt": "Christmas tree portraits with gift boxes, festive decorations, holiday celebration",
+          "items": [
+            {
+              "id": "pinetree_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Casual_lean_against_202512221146.jpeg"
+            },
+            {
+              "id": "pinetree_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Child_standing_by_202512221143.jpeg"
+            },
+            {
+              "id": "pinetree_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Elegant_pose_beside_202512221145 (1).jpeg"
+            },
+            {
+              "id": "pinetree_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Elegant_pose_beside_202512221145.jpeg"
+            },
+            {
+              "id": "pinetree_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Front_side_of_202512221151.jpeg"
+            },
+            {
+              "id": "pinetree_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Man_casual_lean_202512221148 (1).jpeg"
+            },
+            {
+              "id": "pinetree_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Man_casual_lean_202512221148.jpeg"
+            },
+            {
+              "id": "pinetree_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Man_sitting_on_202512221150.jpeg"
+            },
+            {
+              "id": "pinetree_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Man_standing_beside_202512221139.jpeg"
+            },
+            {
+              "id": "pinetree_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/PinetreeGiftBox/Man_standing_next_202512221142 (1).jpeg"
+            }
+          ]
+        },
+        {
+          "id": "family",
+          "title": "Family",
+          "prompt": "Christmas family portraits, festive gathering, holiday celebration together",
+          "items": [
+            {
+              "id": "family_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_baking_christmas_202512221122 (1).jpeg"
+            },
+            {
+              "id": "family_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_baking_christmas_202512221122.jpeg"
+            },
+            {
+              "id": "family_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_building_snowman_202512221134.jpeg"
+            },
+            {
+              "id": "family_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_decorating_christmas_202512221128 (1).jpeg"
+            },
+            {
+              "id": "family_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_decorating_christmas_202512221128.jpeg"
+            },
+            {
+              "id": "family_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_dinner_table_202512221127.jpeg"
+            },
+            {
+              "id": "family_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_opening_presents_202512221125.jpeg"
+            },
+            {
+              "id": "family_8",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_portrait_at_202512221136 (1).jpeg"
+            },
+            {
+              "id": "family_9",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_portrait_at_202512221136.jpeg"
+            },
+            {
+              "id": "family_10",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/christmas/Family/Family_portrait_in_202512221130 (1).jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "newyear",
+      "name": "New Year",
+      "sections": [
+        {
+          "id": "family",
+          "title": "Family",
+          "prompt": "New Year family celebration, countdown party, festive gathering",
+          "items": [
+            {
+              "id": "family_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Family/4_people_family_202512221525.jpeg"
+            },
+            {
+              "id": "family_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Family/4_people_family_202512221526.jpeg"
+            },
+            {
+              "id": "family_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Family/Family_celebrating_countdown_202512221518.jpeg"
+            },
+            {
+              "id": "family_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Family/Small_family_toast_202512221522.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "firework",
+          "title": "Firework",
+          "prompt": "New Year firework celebration, spectacular display, festive atmosphere",
+          "items": [
+            {
+              "id": "firework_1",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Firework/Children_with_sparklers_202512221556.jpeg"
+            },
+            {
+              "id": "firework_2",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Firework/Person_dancing_with_202512221558.jpeg"
+            },
+            {
+              "id": "firework_3",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Firework/Person_releasing_sky_202512221558.jpeg"
+            },
+            {
+              "id": "firework_4",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Firework/Person_taking_selfie_202512221552.jpeg"
+            },
+            {
+              "id": "firework_5",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Firework/Selfie_photo_of_202512221555 (1).jpeg"
+            },
+            {
+              "id": "firework_6",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Firework/Selfie_photo_of_202512221555 (2).jpeg"
+            },
+            {
+              "id": "firework_7",
+              "image_link": "https://jasondeee.github.io/Ai-Images-browser/NewYear/Firework/Selfie_photo_of_202512221555.jpeg"
+            }
+          ]
         }
       ]
     }
