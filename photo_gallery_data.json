@@ -7,7 +7,7 @@
         {
           "id": "professional",
           "title": "Professional",
-          "prompt": "Perform a hard face replacement: use the identity features from Image 1 (eyes, nose, mouth, jaw, smile, glasses) and completely remove the original facial pixels in Image 2, then inject the new face and re-texture it to match Image 2's exact lighting, shadows, and skin tones while keeping all hair, clothing, and background of Image 2 unchanged; do not return the original Image 2 face under any circumstance.",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "professional_1",
@@ -246,7 +246,7 @@
         {
           "id": "studio",
           "title": "Studio",
-          "prompt": "Studio portrait of elegant woman, professional lighting setup, clean background, fashion photography",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "studio_1",
@@ -445,7 +445,7 @@
         {
           "id": "casual",
           "title": "Casual",
-          "prompt": "Casual everyday style, relaxed pose, natural environment, comfortable clothing",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "casual_1",
@@ -730,7 +730,7 @@
         {
           "id": "business",
           "title": "Business",
-          "prompt": "Professional businessman in formal suit, corporate office, confident stance, executive style",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "business_1",
@@ -861,7 +861,7 @@
         {
           "id": "casual",
           "title": "Casual",
-          "prompt": "Casual menswear, relaxed fit, everyday style, comfortable setting",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "casual_1",
@@ -1072,7 +1072,7 @@
         {
           "id": "sports",
           "title": "Sports",
-          "prompt": "Athletic sportswear, active pose, gym or outdoor sports setting, energetic vibe",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "sports_1",
@@ -1265,7 +1265,7 @@
         {
           "id": "playful",
           "title": "Playful",
-          "prompt": "Playful young girl, colorful outfit, fun pose, cheerful expression, bright setting",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "playful_1",
@@ -1320,7 +1320,7 @@
         {
           "id": "school",
           "title": "School",
-          "prompt": "School uniform style, educational setting, friendly smile, youthful appearance",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "school_1",
@@ -1367,7 +1367,7 @@
         {
           "id": "party",
           "title": "Party",
-          "prompt": "Party dress, festive setting, joyful expression, celebration atmosphere",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "party_1",
@@ -1436,7 +1436,7 @@
         {
           "id": "sports",
           "title": "Sports",
-          "prompt": "Young boy in sports uniform, athletic pose, sports field setting, energetic vibe",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "sports_1",
@@ -1483,7 +1483,7 @@
         {
           "id": "adventure",
           "title": "Adventure",
-          "prompt": "Adventure outfit, explorer style, outdoor setting, adventurous expression",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "adventure_1",
@@ -1530,7 +1530,7 @@
         {
           "id": "school",
           "title": "School",
-          "prompt": "School uniform, educational environment, friendly smile, student style",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "school_1",
@@ -1579,7 +1579,7 @@
         {
           "id": "santa",
           "title": "Santa",
-          "prompt": "Christmas Santa portraits, festive holiday setting, joyful celebration atmosphere",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "santa_1",
@@ -1626,7 +1626,7 @@
         {
           "id": "pinetree",
           "title": "Pine Tree & Gift Box",
-          "prompt": "Christmas tree portraits with gift boxes, festive decorations, holiday celebration",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "pinetree_1",
@@ -1673,7 +1673,7 @@
         {
           "id": "family",
           "title": "Family",
-          "prompt": "Christmas family portraits, festive gathering, holiday celebration together",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "family_1",
@@ -1726,7 +1726,7 @@
         {
           "id": "family",
           "title": "Family",
-          "prompt": "New Year family celebration, countdown party, festive gathering",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "family_1",
@@ -1749,7 +1749,7 @@
         {
           "id": "firework",
           "title": "Firework",
-          "prompt": "New Year firework celebration, spectacular display, festive atmosphere",
+          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
           "items": [
             {
               "id": "firework_1",
