@@ -7,7 +7,7 @@
         {
           "id": "professional",
           "title": "Professional",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "professional_1",
@@ -246,7 +246,7 @@
         {
           "id": "studio",
           "title": "Studio",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "studio_1",
@@ -445,7 +445,7 @@
         {
           "id": "casual",
           "title": "Casual",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "casual_1",
@@ -730,7 +730,7 @@
         {
           "id": "business",
           "title": "Business",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "business_1",
@@ -861,7 +861,7 @@
         {
           "id": "casual",
           "title": "Casual",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "casual_1",
@@ -1072,7 +1072,7 @@
         {
           "id": "sports",
           "title": "Sports",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "sports_1",
@@ -1265,7 +1265,7 @@
         {
           "id": "playful",
           "title": "Playful",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "playful_1",
@@ -1320,7 +1320,7 @@
         {
           "id": "school",
           "title": "School",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "school_1",
@@ -1367,7 +1367,7 @@
         {
           "id": "party",
           "title": "Party",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "party_1",
@@ -1436,7 +1436,7 @@
         {
           "id": "sports",
           "title": "Sports",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "sports_1",
@@ -1483,7 +1483,7 @@
         {
           "id": "adventure",
           "title": "Adventure",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "adventure_1",
@@ -1530,7 +1530,7 @@
         {
           "id": "school",
           "title": "School",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "school_1",
@@ -1579,7 +1579,7 @@
         {
           "id": "santa",
           "title": "Santa",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "santa_1",
@@ -1626,7 +1626,7 @@
         {
           "id": "pinetree",
           "title": "Pine Tree & Gift Box",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "pinetree_1",
@@ -1673,7 +1673,7 @@
         {
           "id": "family",
           "title": "Family",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "family_1",
@@ -1726,7 +1726,7 @@
         {
           "id": "family",
           "title": "Family",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "family_1",
@@ -1749,7 +1749,7 @@
         {
           "id": "firework",
           "title": "Firework",
-          "prompt": "MANDATORY EXECUTION: Synthesize a photorealistic composite image by injecting the facial identity features (eyes, nose, mouth, facial structure) from Source Image 1 into the Context Image 2; you must DISCARD the original facial identity of Image 2 and overwrite it with Image 1's identity while meticulously forcing the new face to adopt the exact skin texture, lighting, shadows, color grading, and aspect ratio of Image 2, ensuring the hair, ears, neck, clothing, and background of Image 2 remain pixel-perfectly unchanged.",
+          "prompt": "Using Image 1 as the source for facial identity (regardless of age or gender) and Image 2 as the target base portrait: Perform a photorealistic seamless face swap. Replace the facial features in Image 2 with those provided in Image 1. It is critical to strictly preserve the original hairstyle, head shape, attire, lighting conditions, shadows, and entire background context of Image 2 unaltered. The skin texture and tone of the new face must be perfectly adapted to blend with the specific lighting environment of Image 2. Crucially, the final output image must maintain the exact same dimensions and aspect ratio as Image 2.",
           "items": [
             {
               "id": "firework_1",
