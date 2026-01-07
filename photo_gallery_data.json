@@ -7,7 +7,7 @@
         {
           "id": "professional",
           "title": "Professional",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "professional_1",
@@ -246,7 +246,7 @@
         {
           "id": "studio",
           "title": "Studio",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "studio_1",
@@ -445,7 +445,7 @@
         {
           "id": "casual",
           "title": "Casual",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "casual_1",
@@ -730,7 +730,7 @@
         {
           "id": "business",
           "title": "Business",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "business_1",
@@ -861,7 +861,7 @@
         {
           "id": "casual",
           "title": "Casual",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "casual_1",
@@ -1072,7 +1072,7 @@
         {
           "id": "sports",
           "title": "Sports",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "sports_1",
@@ -1265,7 +1265,7 @@
         {
           "id": "playful",
           "title": "Playful",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "playful_1",
@@ -1320,7 +1320,7 @@
         {
           "id": "school",
           "title": "School",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "school_1",
@@ -1367,7 +1367,7 @@
         {
           "id": "party",
           "title": "Party",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "party_1",
@@ -1436,7 +1436,7 @@
         {
           "id": "sports",
           "title": "Sports",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "sports_1",
@@ -1483,7 +1483,7 @@
         {
           "id": "adventure",
           "title": "Adventure",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "adventure_1",
@@ -1530,7 +1530,7 @@
         {
           "id": "school",
           "title": "School",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "school_1",
@@ -1579,7 +1579,7 @@
         {
           "id": "santa",
           "title": "Santa",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "santa_1",
@@ -1626,7 +1626,7 @@
         {
           "id": "pinetree",
           "title": "Pine Tree & Gift Box",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "pinetree_1",
@@ -1673,7 +1673,7 @@
         {
           "id": "family",
           "title": "Family",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "family_1",
@@ -1726,7 +1726,7 @@
         {
           "id": "family",
           "title": "Family",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "family_1",
@@ -1749,7 +1749,7 @@
         {
           "id": "firework",
           "title": "Firework",
-          "prompt": "Combine the face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2.",
+          "prompt": "Combine the exact face of the person from Image 1 with the full body, pose, outfit, background, and lighting of Image 2. The resulting image should be photorealistic and seamlessly blend these elements, ensuring the identity from Image 1 is clearly present in the scene of Image 2. Important: The resulting image must not look identical to Image 2 - ensure visible differences in the final output.",
           "items": [
             {
               "id": "firework_1",
