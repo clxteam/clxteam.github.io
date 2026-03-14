@@ -9,23 +9,29 @@
     body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f5f5f7; color: #1d1d1f; padding: 20px; max-width: 600px; margin: 0 auto; }
     h1 { font-size: 24px; margin-bottom: 8px; }
     .subtitle { color: #86868b; margin-bottom: 24px; }
+    .section-title { font-size: 18px; font-weight: 600; margin: 24px 0 12px; }
     .step { background: white; border-radius: 12px; padding: 16px; margin-bottom: 12px; }
     .step-num { display: inline-block; background: #007aff; color: white; width: 28px; height: 28px; border-radius: 50%; text-align: center; line-height: 28px; font-weight: 600; margin-right: 8px; font-size: 14px; }
     .step-title { font-weight: 600; display: inline; }
-    .step-desc { color: #555; margin-top: 8px; font-size: 14px; line-height: 1.5; }
+    .step-desc { color: #555; margin-top: 8px; font-size: 14px; line-height: 1.6; }
     code { background: #f0f0f0; padding: 2px 6px; border-radius: 4px; font-size: 13px; word-break: break-all; }
-    .url-box { background: #f0f0f0; border-radius: 8px; padding: 12px; margin-top: 12px; font-family: monospace; font-size: 13px; word-break: break-all; user-select: all; }
-    .note { background: #fff3cd; border-radius: 12px; padding: 16px; margin-top: 16px; font-size: 14px; }
+    .url-box { background: #f0f0f0; border-radius: 8px; padding: 12px; margin-top: 8px; font-family: monospace; font-size: 13px; word-break: break-all; user-select: all; position: relative; cursor: pointer; }
+    .url-box:active { background: #e0e0e0; }
+    .url-box::after { content: '📋 Tap to copy'; display: block; font-family: -apple-system, sans-serif; font-size: 11px; color: #007aff; margin-top: 4px; }
+    .note { background: #fff3cd; border-radius: 12px; padding: 16px; margin-top: 16px; font-size: 14px; line-height: 1.5; }
     .note strong { color: #856404; }
+    .warn { background: #f8d7da; border-radius: 12px; padding: 16px; margin-top: 12px; font-size: 14px; line-height: 1.5; }
+    .warn strong { color: #721c24; }
     .input-group { margin-top: 16px; }
     .input-group label { font-weight: 600; display: block; margin-bottom: 4px; }
-    .input-group input { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 16px; }
+    .input-group input { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 16px; }
     #generated-steps { display: none; }
+    .img-hint { background: white; border-radius: 12px; padding: 12px; margin-top: 8px; font-size: 13px; color: #666; line-height: 1.5; }
   </style>
 </head>
 <body>
   <h1>📱 Add Developer Shortcut</h1>
-  <p class="subtitle">Hướng dẫn tạo iOS Shortcut để thêm developer từ App Store</p>
+  <p class="subtitle">Tạo iOS Shortcut để thêm developer từ App Store Share Sheet</p>
 
   <div class="input-group">
     <label>Domain server của bạn:</label>
@@ -33,45 +39,85 @@
   </div>
 
   <div id="generated-steps" style="margin-top: 24px;">
+
+    <p class="section-title">🔧 Thiết lập Shortcut</p>
+
     <div class="step">
       <span class="step-num">1</span>
-      <p class="step-title">Mở app Shortcuts → tạo Shortcut mới</p>
-      <p class="step-desc">Bật "Show in Share Sheet" và chọn nhận "URLs" và "Text"</p>
+      <p class="step-title">Tạo Shortcut mới</p>
+      <p class="step-desc">
+        Mở app <code>Shortcuts</code> → bấm <code>+</code> → đặt tên "Add Developer"<br><br>
+        Bấm icon <code>ⓘ</code> ở trên cùng → bật <code>Show in Share Sheet</code><br>
+        Ở dòng "Receives": chọn <code>URLs</code>, <code>Text</code>, và <code>Safari web pages</code>
+      </p>
     </div>
 
     <div class="step">
       <span class="step-num">2</span>
-      <p class="step-title">Thêm action: URL</p>
-      <p class="step-desc">Nhập URL sau:</p>
-      <div class="url-box" id="api-url"></div>
+      <p class="step-title">Action: Get URLs from Input</p>
+      <p class="step-desc">
+        Tìm action <code>Get URLs from Input</code><br>
+        Input: chọn <code>Shortcut Input</code><br><br>
+        ⚠️ Bước này rất quan trọng — khi share từ App Store, iOS gửi text dạng:<br>
+        <code>"App Name by Developer https://apps.apple.com/..."</code><br>
+        Action này sẽ trích xuất URL ra khỏi đoạn text đó.
+      </p>
     </div>
 
     <div class="step">
       <span class="step-num">3</span>
-      <p class="step-title">Thêm action: Get Contents of URL</p>
+      <p class="step-title">Action: Get Contents of URL (POST request)</p>
       <p class="step-desc">
+        Tìm action <code>Get Contents of URL</code><br><br>
+        Cấu hình:<br>
+        - URL: bấm vào ô URL → nhập URL API bên dưới<br>
+        <div class="url-box" id="api-url" onclick="copyUrl(this)"></div>
+        <br>
+        - Bấm <code>Show More</code><br>
         - Method: <code>POST</code><br>
-        - Headers: <code>Content-Type</code> = <code>application/json</code><br>
-        - Request Body: JSON<br>
-        - Thêm key <code>url</code> với value là <code>Shortcut Input</code>
+        - Headers: thêm 1 header → Key: <code>Content-Type</code> Value: <code>application/json</code><br>
+        - Request Body: chọn <code>JSON</code><br>
+        - Thêm 1 field → Key: <code>url</code> → Value: bấm chọn <code>URLs</code> (kết quả từ bước 2)
       </p>
     </div>
 
     <div class="step">
       <span class="step-num">4</span>
-      <p class="step-title">Thêm action: Get Dictionary Value</p>
-      <p class="step-desc">Key: <code>developerName</code> từ "Contents of URL"</p>
+      <p class="step-title">Action: Get Dictionary Value</p>
+      <p class="step-desc">
+        Tìm action <code>Get Dictionary Value</code><br>
+        - Get: <code>Value</code><br>
+        - for Key: nhập <code>developerName</code><br>
+        - in: chọn <code>Contents of URL</code> (kết quả từ bước 3)
+      </p>
     </div>
 
     <div class="step">
       <span class="step-num">5</span>
-      <p class="step-title">Thêm action: Show Notification</p>
-      <p class="step-desc">Nội dung: <code>Đã thêm [Dictionary Value]</code></p>
+      <p class="step-title">Action: Show Notification</p>
+      <p class="step-desc">
+        Tìm action <code>Show Notification</code><br>
+        Nội dung: nhập "Đã thêm " rồi chọn <code>Dictionary Value</code> (kết quả từ bước 4)
+      </p>
     </div>
 
     <div class="note">
-      <strong>💡 Cách dùng:</strong> Vào App Store → giữ app → Share → chọn shortcut "Add Developer". Chỉ cần 5 action, không cần logic phức tạp vì server xử lý hết.
+      <strong>💡 Cách dùng:</strong> Vào App Store → giữ vào app → Share → kéo xuống chọn "Add Developer".<br><br>
+      Nếu không thấy shortcut trong Share Sheet: kéo xuống cuối → bấm <code>Edit Actions</code> → bật shortcut lên.
     </div>
+
+    <div class="warn">
+      <strong>⚠️ Lưu ý:</strong> Nếu shortcut chạy rất nhanh mà không có notification → kiểm tra lại bước 2 (Get URLs from Input). Thiếu bước này sẽ khiến URL rỗng và API trả lỗi ngay lập tức.
+    </div>
+
+    <p class="section-title" style="margin-top: 32px;">🧪 Test API</p>
+    <div class="step">
+      <p class="step-desc">
+        Bạn có thể test API bằng cách chạy lệnh curl:<br>
+        <div class="url-box" id="curl-test"></div>
+      </p>
+    </div>
+
   </div>
 
   <script>
@@ -79,12 +125,24 @@
       const domain = document.getElementById('domain').value.replace(/\/+$/, '');
       const container = document.getElementById('generated-steps');
       const urlBox = document.getElementById('api-url');
+      const curlBox = document.getElementById('curl-test');
       if (domain.length > 10) {
         container.style.display = 'block';
-        urlBox.textContent = domain + '/api/shortcut/add-developer';
+        const apiUrl = domain + '/api/shortcut/add-developer';
+        urlBox.textContent = apiUrl;
+        curlBox.textContent = 'curl -X POST ' + apiUrl + ' -H "Content-Type: application/json" -d \'{"url": "https://apps.apple.com/us/app/telegram/id686449807"}\'';
       } else {
         container.style.display = 'none';
       }
+    }
+
+    function copyUrl(el) {
+      const text = el.textContent.replace('📋 Tap to copy', '').trim();
+      navigator.clipboard.writeText(text).then(() => {
+        const orig = el.style.background;
+        el.style.background = '#d4edda';
+        setTimeout(() => { el.style.background = orig; }, 500);
+      });
     }
   </script>
 </body>
